@@ -4,8 +4,8 @@ The Custom Villager Trades Mod allows you to customize villager trades with JSON
 
 Specifically, these files are for customizing the villager trades for the TodeCoins mod I've made.
 
-In order to use these files, you will need to download the Custom Villager Trades Mod from here:
+In order to use these files with my TodeCoins mod, you will need to download the Custom Villager Trades Mod from here:
 
 * https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades-forge
 
-and then place my custom files into the mod's config folder.
+install the mod into your modpack and then place my custom files into the mod's config folder.
