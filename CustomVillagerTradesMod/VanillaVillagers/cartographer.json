@@ -17,7 +17,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:cartographer_copper_coin_bag_for_paper"
     },
     {
       "offer": {
@@ -34,7 +35,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:cartographer_map_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -51,7 +53,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:cartographer_copper_coin_bag_for_glass_pane"
     },
     {
       "offer": {
@@ -73,7 +76,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:cartographer_filled_map_for_pot_of_gold_and_compass"
     },
     {
       "offer": {
@@ -90,7 +94,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:cartographer_copper_coin_bag_for_compass"
     },
     {
       "offer": {
@@ -112,7 +117,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:cartographer_filled_map_for_pot_of_gold_and_compass"
     },
     {
       "offer": {
@@ -129,7 +135,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:cartographer_item_frame_for_iron_coin_bag"
     },
     {
       "multiOffer": [
@@ -207,7 +214,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:cartographer_multioffer_white_banner_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -224,7 +232,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:cartographer_globe_banner_pattern_for_iron_coin_bag"
     }
   ]
 }

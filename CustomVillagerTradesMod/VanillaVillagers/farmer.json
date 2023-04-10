@@ -15,7 +15,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_copper_coin_bag_for_wheat"
     },
     {
       "offer": {
@@ -30,7 +31,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_copper_coin_bag_for_potato"
     },
     {
       "offer": {
@@ -45,7 +47,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_copper_coin_bag_for_carrot"
     },
     {
       "offer": {
@@ -60,7 +63,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_copper_coin_bag_for_beetroot"
     },
     {
       "offer": {
@@ -75,7 +79,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:farmer_bread_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -90,7 +95,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_copper_coin_bag_for_pumpkin"
     },
     {
       "multiOffer": [
@@ -111,7 +117,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:farmer_multioffer_pumpkin_pie_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -126,7 +133,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_copper_coin_bag_for_melon"
     },
     {
       "offer": {
@@ -141,7 +149,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:farmer_cookie_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -156,7 +165,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_cake_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -180,7 +190,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -204,7 +215,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -228,7 +240,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -252,7 +265,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -276,7 +290,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -300,7 +315,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -315,7 +331,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_golden_carrot_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -330,7 +347,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:farmer_glistering_melon_slice_for_iron_coin_bag"
     }
   ]
 }

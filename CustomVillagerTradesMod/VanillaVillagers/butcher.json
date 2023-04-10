@@ -17,7 +17,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:butcher_copper_coin_bag_for_chicken"
     },
     {
       "offer": {
@@ -34,7 +35,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:butcher_copper_coin_bag_for_porkchop"
     },
     {
       "offer": {
@@ -51,7 +53,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:butcher_copper_coin_bag_for_rabbit"
     },
     {
       "offer": {
@@ -68,7 +71,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:butcher_rabbit_stew_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -85,7 +89,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:butcher_copper_coin_bag_for_coal"
     },
     {
       "offer": {
@@ -102,7 +107,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:butcher_cooked_porkchop_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -119,7 +125,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:butcher_cooked_chicken_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -136,7 +143,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:butcher_copper_coin_bag_for_mutton"
     },
     {
       "offer": {
@@ -153,7 +161,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:butcher_copper_coin_bag_for_beef"
     },
     {
       "offer": {
@@ -170,7 +179,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:butcher_copper_coin_bag_for_dried_kelp_block"
     },
     {
       "offer": {
@@ -187,7 +197,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:butcher_copper_coin_bag_for_sweet_berries"
     }
   ]
 }

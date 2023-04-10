@@ -17,7 +17,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_copper_coin_bag_for_rotten_flesh"
     },
     {
       "offer": {
@@ -34,7 +35,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:cleric_redstone_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -51,7 +53,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_copper_coin_bag_for_gold_ingot"
     },
     {
       "offer": {
@@ -68,7 +71,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:cleric_lapis_lazuli_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -85,7 +89,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_copper_coin_bag_for_rabbit_foot"
     },
     {
       "offer": {
@@ -102,7 +107,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:cleric_glowstone_for_iron_coin_bag"
     },
     {
       "offer": {
@@ -119,7 +125,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_copper_coin_bag_for_scute"
     },
     {
       "offer": {
@@ -136,7 +143,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_copper_coin_bag_for_glass_bottle"
     },
     {
       "offer": {
@@ -153,7 +161,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:cleric_ender_pearl_for_pot_of_gold"
     },
     {
       "offer": {
@@ -170,7 +179,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:cleric_copper_coin_bag_for_nether_wart"
     },
     {
       "offer": {
@@ -187,7 +197,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:cleric_experience_bottle_for_copper_coin_bag"
     }
   ]
 }

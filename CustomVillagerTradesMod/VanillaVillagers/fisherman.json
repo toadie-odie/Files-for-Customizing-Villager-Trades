@@ -15,7 +15,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_string"
     },
     {
       "offer": {
@@ -30,7 +31,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_coal"
     },
     {
       "offer": {
@@ -49,7 +51,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_cooked_cod_for_cod_and_copper_coin_bag"
     },
     {
       "offer": {
@@ -64,7 +67,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1
+      "tradeLevel": 1,
+      "UTID": "minecraft:fisherman_cod_bucket_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -79,7 +83,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_cod"
     },
     {
       "offer": {
@@ -98,7 +103,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_cooked_salmon_for_salmon_and_copper_coin_bag"
     },
     {
       "offer": {
@@ -113,7 +119,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 2,
+      "UTID": "minecraft:fisherman_campfire_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -128,7 +135,8 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_salmon"
     },
     {
       "offer": {
@@ -156,7 +164,8 @@
       "maxUses": 3,
       "priceMultiplier": 0.02,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 3,
+      "UTID": "minecraft:fisherman_fishing_rod_for_emerald_bank_note"
     },
     {
       "offer": {
@@ -171,7 +180,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 4,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_tropical_fish"
     },
     {
       "offer": {
@@ -186,7 +196,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_pufferfish"
     },
     {
       "offer": {
@@ -201,7 +212,8 @@
       "maxUses": 2,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_oak_boat"
     },
     {
       "offer": {
@@ -216,7 +228,8 @@
       "maxUses": 2,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_spruce_boat"
     },
     {
       "offer": {
@@ -231,7 +244,8 @@
       "maxUses": 2,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_birch_boat"
     },
     {
       "offer": {
@@ -246,7 +260,8 @@
       "maxUses": 2,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_jungle_boat"
     },
     {
       "offer": {
@@ -261,7 +276,8 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_acacia_boat"
     },
     {
       "offer": {
@@ -276,7 +292,8 @@
       "maxUses": 2,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 5,
+      "UTID": "minecraft:fisherman_copper_coin_bag_for_dark_oak_boat"
     }
   ]
 }
