@@ -9,3 +9,5 @@ In order to use these files with my TodeCoins mod, you will need to download the
 * https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades-forge
 
 install the mod into your modpack and then place my custom files into the mod's config folder.
+
+You are free and encouraged to edit these files as you need to in order to suit your needs.
