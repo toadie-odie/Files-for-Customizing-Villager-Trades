@@ -29,13 +29,13 @@
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18,
         "priceModifier": 0
-      }
+      },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 1
-    },    
+    },
     {
       "offer": {
         "itemKey": "todecoins:copper_coin_bag",
@@ -86,7 +86,7 @@
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 3
-    },	
+    },
     {
       "offer": {
         "itemKey": "minecraft:glowstone",
@@ -162,7 +162,7 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "minecraft:netherwart",
+        "itemKey": "minecraft:nether_wart",
         "amount": 22,
         "priceModifier": 0
       },
@@ -172,7 +172,7 @@
       "demand": 0,
       "tradeLevel": 5
     },
-	{
+    {
       "offer": {
         "itemKey": "minecraft:experience_bottle",
         "amount": 1,

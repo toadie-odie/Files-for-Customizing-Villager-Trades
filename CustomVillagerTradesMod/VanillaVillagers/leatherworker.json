@@ -13,7 +13,8 @@
       },
       "tradeExp": 2,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 1
     },
     {
@@ -27,7 +28,8 @@
       },
       "tradeExp": 1,
       "maxUses": 12,
-      "priceMultiplier": 0.2,
+      "priceMultiplier": 0.2,
+      "demand": 0,
       "tradeLevel": 1
     },
     {
@@ -41,7 +43,8 @@
       },
       "tradeExp": 1,
       "maxUses": 12,
-      "priceMultiplier": 0.2,
+      "priceMultiplier": 0.2,
+      "demand": 0,
       "tradeLevel": 1
     },
     {
@@ -55,7 +58,8 @@
       },
       "tradeExp": 10,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -69,7 +73,8 @@
       },
       "tradeExp": 5,
       "maxUses": 12,
-      "priceMultiplier": 0.2,
+      "priceMultiplier": 0.2,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -83,7 +88,8 @@
       },
       "tradeExp": 5,
       "maxUses": 12,
-      "priceMultiplier": 0.2,
+      "priceMultiplier": 0.2,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -97,7 +103,8 @@
       },
       "tradeExp": 20,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 3
     },
     {
@@ -111,7 +118,8 @@
       },
       "tradeExp": 1,
       "maxUses": 12,
-      "priceMultiplier": 0.2,
+      "priceMultiplier": 0.2,
+      "demand": 0,
       "tradeLevel": 3
     },
     {
@@ -125,7 +133,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -139,7 +148,8 @@
       },
       "tradeExp": 15,
       "maxUses": 12,
-      "priceMultiplier": 0.2,
+      "priceMultiplier": 0.2,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -153,7 +163,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.2,
+      "priceMultiplier": 0.2,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -167,7 +178,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.2,
+      "priceMultiplier": 0.2,
+      "demand": 0,
       "tradeLevel": 5
     }
   ]

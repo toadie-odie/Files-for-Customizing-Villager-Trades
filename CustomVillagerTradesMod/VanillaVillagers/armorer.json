@@ -292,16 +292,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:pot_of_gold",
-        "amount": 22,
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 19,
+        "amountRange": 22
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:armorer_diamond_leggings_for_pot_of_gold"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -317,16 +317,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:pot_of_gold",
-        "amount": 18,
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 13,
+        "amountRange": 27
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:armorer_diamond_boots_for_pot_of_gold"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -342,16 +342,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:pot_of_gold",
-        "amount": 18,
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 13,
+        "amountRange": 27
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:armorer_diamond_helmet_for_pot_of_gold"
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -367,16 +367,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:pot_of_gold",
-        "amount": 18,
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 21,
+        "amountRange": 35
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:armorer_diamond_chestplate_for_pot_of_gold"
+      "tradeLevel": 5
     }
   ]
 }

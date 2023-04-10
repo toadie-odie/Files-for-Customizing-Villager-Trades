@@ -13,8 +13,9 @@
       },
       "tradeExp": 2,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -27,8 +28,9 @@
       },
       "tradeExp": 2,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -41,8 +43,9 @@
       },
       "tradeExp": 2,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -55,8 +58,9 @@
       },
       "tradeExp": 2,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -69,8 +73,9 @@
       },
       "tradeExp": 1,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -83,25 +88,29 @@
       },
       "tradeExp": 10,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
-      "multiOffer": [{
-        "itemKey": "minecraft:pumpkin_pie",
-        "amount": 4
-      },
-      {
-        "itemKey": "minecraft:apple",
-        "amount": 4
-      }],
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:pumpkin_pie",
+          "amount": 4
+        },
+        {
+          "itemKey": "minecraft:apple",
+          "amount": 4
+        }
+      ],
       "request": {
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18
       },
       "tradeExp": 5,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -115,7 +124,8 @@
       },
       "tradeExp": 20,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 3
     },
     {
@@ -129,7 +139,8 @@
       },
       "tradeExp": 10,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 3
     },
     {
@@ -143,7 +154,8 @@
       },
       "tradeExp": 15,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -151,12 +163,13 @@
         "itemKey": "minecraft:suspicious_stew",
         "amount": 1,
         "effects": [
-            {
-                "effectKey": "minecraft:night_vision",
-                "duration": 100,
-                "level": 1,
-                "isVisible": "true"
-            }
+          {
+            "effectKey": "minecraft:night_vision",
+            "duration": 100,
+            "level": 1,
+            "isVisible": true,
+            "potionKey": "minecraft:empty"
+          }
         ]
       },
       "request": {
@@ -165,7 +178,8 @@
       },
       "tradeExp": 15,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -173,12 +187,13 @@
         "itemKey": "minecraft:suspicious_stew",
         "amount": 1,
         "effects": [
-            {
-                "effectKey": "minecraft:jump_boost",
-                "duration": 160,
-                "level": 1,
-                "isVisible": "true"
-            }
+          {
+            "effectKey": "minecraft:jump_boost",
+            "duration": 160,
+            "level": 1,
+            "isVisible": true,
+            "potionKey": "minecraft:empty"
+          }
         ]
       },
       "request": {
@@ -187,7 +202,8 @@
       },
       "tradeExp": 15,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -195,12 +211,13 @@
         "itemKey": "minecraft:suspicious_stew",
         "amount": 1,
         "effects": [
-            {
-                "effectKey": "minecraft:weakness",
-                "duration": 140,
-                "level": 1,
-                "isVisible": "true"
-            }
+          {
+            "effectKey": "minecraft:weakness",
+            "duration": 140,
+            "level": 1,
+            "isVisible": true,
+            "potionKey": "minecraft:empty"
+          }
         ]
       },
       "request": {
@@ -209,7 +226,8 @@
       },
       "tradeExp": 15,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -217,12 +235,13 @@
         "itemKey": "minecraft:suspicious_stew",
         "amount": 1,
         "effects": [
-            {
-                "effectKey": "minecraft:blindness",
-                "duration": 120,
-                "level": 1,
-                "isVisible": "true"
-            }
+          {
+            "effectKey": "minecraft:blindness",
+            "duration": 120,
+            "level": 1,
+            "isVisible": true,
+            "potionKey": "minecraft:empty"
+          }
         ]
       },
       "request": {
@@ -231,7 +250,8 @@
       },
       "tradeExp": 15,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -239,12 +259,13 @@
         "itemKey": "minecraft:suspicious_stew",
         "amount": 1,
         "effects": [
-            {
-                "effectKey": "minecraft:poison",
-                "duration": 280,
-                "level": 1,
-                "isVisible": "true"
-            }
+          {
+            "effectKey": "minecraft:poison",
+            "duration": 280,
+            "level": 1,
+            "isVisible": true,
+            "potionKey": "minecraft:empty"
+          }
         ]
       },
       "request": {
@@ -253,7 +274,8 @@
       },
       "tradeExp": 15,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -261,12 +283,13 @@
         "itemKey": "minecraft:suspicious_stew",
         "amount": 1,
         "effects": [
-            {
-                "effectKey": "minecraft:saturation",
-                "duration": 7,
-                "level": 1,
-                "isVisible": "true"
-            }
+          {
+            "effectKey": "minecraft:saturation",
+            "duration": 7,
+            "level": 1,
+            "isVisible": true,
+            "potionKey": "minecraft:empty"
+          }
         ]
       },
       "request": {
@@ -275,7 +298,8 @@
       },
       "tradeExp": 15,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -289,7 +313,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -303,7 +328,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     }
   ]

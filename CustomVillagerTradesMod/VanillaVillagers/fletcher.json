@@ -13,7 +13,8 @@
       },
       "tradeExp": 2,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 1
     },
     {
@@ -27,7 +28,8 @@
       },
       "tradeExp": 1,
       "maxUses": 10,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 1
     },
     {
@@ -39,13 +41,14 @@
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18
       },
-        "additionalRequest": {
+      "additionalRequest": {
         "itemKey": "minecraft:gravel",
         "amount": 10
       },
       "tradeExp": 1,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 1
     },
     {
@@ -59,7 +62,8 @@
       },
       "tradeExp": 10,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -73,7 +77,8 @@
       },
       "tradeExp": 5,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -87,7 +92,8 @@
       },
       "tradeExp": 20,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 3
     },
     {
@@ -101,7 +107,8 @@
       },
       "tradeExp": 10,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 3
     },
     {
@@ -115,7 +122,8 @@
       },
       "tradeExp": 30,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -135,12 +143,14 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 36
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 7,
+        "amountRange": 21
       },
       "tradeExp": 15,
       "maxUses": 3,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -154,7 +164,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -175,12 +186,14 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 54
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 8,
+        "amountRange": 22
       },
       "tradeExp": 15,
       "maxUses": 3,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -188,9 +201,13 @@
         "itemKey": "minecraft:tipped_arrow",
         "amount": 5,
         "effects": [
-            {
-                "potionKey": "random"
-            }
+          {
+            "duration": 300,
+            "level": 1,
+            "isVisible": true,
+            "effectKey": "random",
+            "potionKey": "random"
+          }
         ]
       },
       "request": {
@@ -198,12 +215,14 @@
         "amount": 5
       },
       "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 36
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 16,
+        "amountRange": 40
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     }
   ]

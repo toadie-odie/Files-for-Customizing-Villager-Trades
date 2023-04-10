@@ -9,7 +9,7 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "minecraft:raw_chicken",
+        "itemKey": "minecraft:chicken",
         "amount": 14,
         "priceModifier": 0
       },
@@ -172,7 +172,7 @@
       "demand": 0,
       "tradeLevel": 4
     },
-	{
+    {
       "offer": {
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18,
@@ -187,7 +187,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4
+      "tradeLevel": 5
     }
   ]
 }

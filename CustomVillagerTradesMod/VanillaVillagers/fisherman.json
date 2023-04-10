@@ -13,8 +13,9 @@
       },
       "tradeExp": 2,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -27,8 +28,9 @@
       },
       "tradeExp": 2,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -45,8 +47,9 @@
       },
       "tradeExp": 1,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -59,8 +62,9 @@
       },
       "tradeExp": 1,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "tradeLevel": 1  
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -73,7 +77,8 @@
       },
       "tradeExp": 10,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -91,7 +96,8 @@
       },
       "tradeExp": 5,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -105,7 +111,8 @@
       },
       "tradeExp": 5,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 2
     },
     {
@@ -119,7 +126,8 @@
       },
       "tradeExp": 20,
       "maxUses": 16,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 3
     },
     {
@@ -129,9 +137,9 @@
         "priceModifier": 0,
         "enchantments": [
           {
-            "enchantmentKey":"random",
-            "enchantmentLevel":-1,
-            "maxEnchantmentLevel":3
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
           }
         ],
         "blacklistedEnchantments": [
@@ -140,12 +148,14 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 54
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 8,
+        "amountRange": 22
       },
       "tradeExp": 5,
       "maxUses": 3,
-      "priceMultiplier": 0.02,
+      "priceMultiplier": 0.02,
+      "demand": 0,
       "tradeLevel": 3
     },
     {
@@ -159,7 +169,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 4
     },
     {
@@ -173,7 +184,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -187,7 +199,8 @@
       },
       "tradeExp": 30,
       "maxUses": 2,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -201,7 +214,8 @@
       },
       "tradeExp": 30,
       "maxUses": 2,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -215,7 +229,8 @@
       },
       "tradeExp": 30,
       "maxUses": 2,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -229,7 +244,8 @@
       },
       "tradeExp": 30,
       "maxUses": 2,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -243,7 +259,8 @@
       },
       "tradeExp": 30,
       "maxUses": 12,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     },
     {
@@ -257,7 +274,8 @@
       },
       "tradeExp": 30,
       "maxUses": 2,
-      "priceMultiplier": 0.05,
+      "priceMultiplier": 0.05,
+      "demand": 0,
       "tradeLevel": 5
     }
   ]

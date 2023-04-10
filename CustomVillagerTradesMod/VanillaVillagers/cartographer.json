@@ -21,7 +21,7 @@
     },
     {
       "offer": {
-        "itemKey": "minecraft:empty_map",
+        "itemKey": "minecraft:map",
         "amount": 1,
         "priceModifier": 0
       },
@@ -56,12 +56,12 @@
     {
       "offer": {
         "itemKey": "minecraft:filled_map",
-		"mapStructure": "minecraft:monument",
         "amount": 1,
-        "priceModifier": 0
+        "priceModifier": 0,
+        "mapStructure": "minecraft:monument"
       },
       "request": {
-        "itemKey": "todecoins:pot_ofgold",
+        "itemKey": "todecoins:pot_of_gold",
         "amount": 9,
         "priceModifier": 0
       },
@@ -75,7 +75,7 @@
       "demand": 0,
       "tradeLevel": 2
     },
-	{
+    {
       "offer": {
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18,
@@ -92,15 +92,15 @@
       "demand": 0,
       "tradeLevel": 3
     },
-	{
+    {
       "offer": {
         "itemKey": "minecraft:filled_map",
-		"mapStructure": "minecraft:mansion",
         "amount": 1,
-        "priceModifier": 0
+        "priceModifier": 0,
+        "mapStructure": "minecraft:mansion"
       },
       "request": {
-        "itemKey": "todecoins:pot_ofgold",
+        "itemKey": "todecoins:pot_of_gold",
         "amount": 9,
         "priceModifier": 0
       },
@@ -114,7 +114,7 @@
       "demand": 0,
       "tradeLevel": 3
     },
-	{
+    {
       "offer": {
         "itemKey": "minecraft:item_frame",
         "amount": 1,
@@ -131,7 +131,7 @@
       "demand": 0,
       "tradeLevel": 4
     },
-	{
+    {
       "multiOffer": [
         {
           "itemKey": "minecraft:white_banner",
@@ -209,7 +209,7 @@
       "demand": 0,
       "tradeLevel": 4
     },
-	{
+    {
       "offer": {
         "itemKey": "minecraft:globe_banner_pattern",
         "amount": 1,
