@@ -1,5 +1,5 @@
 {
-  "profession": "minecraft:armorer",
+  "profession": "minecraft:toolsmith",
   "removeOtherTrades": true,
   "trades": [
     {
@@ -13,100 +13,84 @@
         "amount": 15,
         "priceModifier": 0
       },
-      "tradeExp": 2,
-      "maxUses": 16,
+      "tradeExp": 4,
+      "maxUses": 6,
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 1,
-      "UTID": "minecraft:armorer_copper_coin_bag_for_coal"
+      "UTID": "minecraft:toolsmith_copper_coin_bag_for_coal"
     },
     {
       "offer": {
-        "itemKey": "minecraft:iron_helmet",
+        "itemKey": "minecraft:stone_pickaxe",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
         "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
+        "amount": 18,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 26
       },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 1,
-      "UTID": "minecraft:armorer_iron_helmet_for_copper_coin_bag_and_copper_coin_bag"
+      "UTID": "minecraft:toolsmith_stone_pickaxe_for_copper_coin_bag"
     },
     {
       "offer": {
-        "itemKey": "minecraft:iron_chestplate",
+        "itemKey": "minecraft:stone_shovel",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:iron_coin_bag",
-        "amount": 64,
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:iron_coin_bag",
-        "amount": 8
       },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 1,
-      "UTID": "minecraft:armorer_iron_chestplate_for_iron_coin_bag_and_iron_coin_bag"
+      "UTID": "minecraft:toolsmith_stone_shovel_for_copper_coin_bag"
     },
     {
       "offer": {
-        "itemKey": "minecraft:iron_leggings",
+        "itemKey": "minecraft:stone_hoe",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
         "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
+        "amount": 18,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 62
       },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 1,
-      "UTID": "minecraft:armorer_iron_leggings_for_copper_coin_bag_and_copper_coin_bag"
+      "UTID": "minecraft:toolsmith_stone_hoe_for_copper_coin_bag"
     },
     {
       "offer": {
-        "itemKey": "minecraft:iron_boots",
+        "itemKey": "minecraft:stone_axe",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
         "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
+        "amount": 18,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 8
       },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 1,
-      "UTID": "minecraft:armorer_iron_boots_for_copper_coin_bag_and_copper_coin_bag"
+      "UTID": "minecraft:toolsmith_stone_axe_for_copper_coin_bag"
     },
     {
       "offer": {
@@ -116,15 +100,14 @@
       },
       "request": {
         "itemKey": "minecraft:iron_ingot",
-        "amount": 4,
-        "priceModifier": 0
+        "amount": 4
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 2,
-      "UTID": "minecraft:armorer_copper_coin_bag_for_iron_ingot"
+      "UTID": "minecraft:toolsmith_copper_coin_bag_for_iron_ingot"
     },
     {
       "offer": {
@@ -142,43 +125,7 @@
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 2,
-      "UTID": "minecraft:armorer_bell_for_pot_of_gold"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:chainmail_leggings",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 54,
-        "priceModifier": 0
-      },
-      "tradeExp": 5,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:armorer_chainmail_leggings_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:chainmail_boots",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18,
-        "priceModifier": 0
-      },
-      "tradeExp": 5,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:armorer_chainmail_boots_for_copper_coin_bag"
+      "UTID": "minecraft:toolsmith_bell_for_pot_of_gold"
     },
     {
       "offer": {
@@ -187,8 +134,8 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "minecraft:lava_bucket",
-        "amount": 1,
+        "itemKey": "minecraft:flint",
+        "amount": 30,
         "priceModifier": 0
       },
       "tradeExp": 20,
@@ -196,7 +143,115 @@
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 3,
-      "UTID": "minecraft:armorer_copper_coin_bag_for_lava_bucket"
+      "UTID": "minecraft:toolsmith_copper_coin_bag_for_flint"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_axe",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 6,
+        "amountRange": 20,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:toolsmith_iron_axe_for_emerald_bank_note"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_shovel",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 7,
+        "amountRange": 21,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:toolsmith_iron_shovel_for_emerald_bank_note"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_pickaxe",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 8,
+        "amountRange": 22,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:toolsmith_iron_pickaxe_for_emerald_bank_note"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_hoe",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3,
+      "UTID": "minecraft:toolsmith_diamond_hoe_for_iron_coin_bag"
     },
     {
       "offer": {
@@ -209,194 +264,102 @@
         "amount": 1,
         "priceModifier": 0
       },
-      "tradeExp": 20,
+      "tradeExp": 30,
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_copper_coin_bag_for_diamond"
+      "tradeLevel": 4,
+      "UTID": "minecraft:toolsmith_copper_coin_bag_for_diamond"
     },
     {
       "offer": {
-        "itemKey": "minecraft:chainmail_helmet",
+        "itemKey": "minecraft:diamond_axe",
         "amount": 1,
-        "priceModifier": 0
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 17,
+        "amountRange": 31,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:toolsmith_diamond_axe_for_emerald_bank_note"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_shovel",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 10,
+        "amountRange": 24,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4,
+      "UTID": "minecraft:toolsmith_diamond_shovel_for_emerald_bank_note"
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_pickaxe",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
         "amount": 18,
+        "amountRange": 32,
         "priceModifier": 0
       },
-      "tradeExp": 10,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_chainmail_helmet_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:chainmail_chestplate",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
-        "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 8
-      },
-      "tradeExp": 10,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_chainmail_chestplate_for_copper_coin_bag_and_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:shield",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
-        "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 26
-      },
-      "tradeExp": 10,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_shield_for_copper_coin_bag_and_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:diamond_leggings",
-        "amount": 1,
-        "priceModifier": 0,
-        "enchantments": [
-          {
-            "enchantmentKey": "random",
-            "enchantmentLevel": -1,
-            "maxEnchantmentLevel": 3
-          }
-        ],
-        "blacklistedEnchantments": [
-          "minecraft:vanishing_curse",
-          "minecraft:binding_curse"
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 19,
-        "amountRange": 22,
-        "priceModifier": 0
-      },
-      "tradeExp": 10,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:armorer_diamond_leggings_for_emerald_bank_note"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:diamond_boots",
-        "amount": 1,
-        "priceModifier": 0,
-        "enchantments": [
-          {
-            "enchantmentKey": "random",
-            "enchantmentLevel": -1,
-            "maxEnchantmentLevel": 3
-          }
-        ],
-        "blacklistedEnchantments": [
-          "minecraft:vanishing_curse",
-          "minecraft:binding_curse"
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 13,
-        "amountRange": 27,
-        "priceModifier": 0
-      },
-      "tradeExp": 10,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:armorer_diamond_boots_for_emerald_bank_note"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:diamond_helmet",
-        "amount": 1,
-        "priceModifier": 0,
-        "enchantments": [
-          {
-            "enchantmentKey": "random",
-            "enchantmentLevel": -1,
-            "maxEnchantmentLevel": 3
-          }
-        ],
-        "blacklistedEnchantments": [
-          "minecraft:vanishing_curse",
-          "minecraft:binding_curse"
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 13,
-        "amountRange": 27,
-        "priceModifier": 0
-      },
-      "tradeExp": 10,
-      "maxUses": 12,
+      "tradeExp": 30,
+      "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 5,
-      "UTID": "minecraft:armorer_diamond_helmet_for_emerald_bank_note"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:diamond_chestplate",
-        "amount": 1,
-        "priceModifier": 0,
-        "enchantments": [
-          {
-            "enchantmentKey": "random",
-            "enchantmentLevel": -1,
-            "maxEnchantmentLevel": 3
-          }
-        ],
-        "blacklistedEnchantments": [
-          "minecraft:vanishing_curse",
-          "minecraft:binding_curse"
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 21,
-        "amountRange": 35,
-        "priceModifier": 0
-      },
-      "tradeExp": 10,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:armorer_diamond_chestplate_for_emerald_bank_note"
+      "UTID": "minecraft:toolsmith_diamond_pickaxe_for_emerald_bank_note"
     }
   ]
 }

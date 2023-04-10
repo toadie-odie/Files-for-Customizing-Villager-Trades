@@ -147,7 +147,8 @@
           }
         ],
         "blacklistedEnchantments": [
-          "minecraft:vanishing_curse"
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
         ]
       },
       "request": {
