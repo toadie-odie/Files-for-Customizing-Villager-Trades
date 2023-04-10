@@ -10,10 +10,10 @@ In order to use these files with my TodeCoins mod, you will need to download the
 
 install the mod into your modpack and then place my custom files into the mod's config folder like so:
 
-!(https://i.imgur.com/NO5d9GM.png)
+![screenshot 1](https://i.imgur.com/NO5d9GM.png)
 
-!(https://i.imgur.com/WyfPLTI.png)
+![screenshot 2](https://i.imgur.com/WyfPLTI.png)
 
-!(https://i.imgur.com/uNLf7fo.png)
+![screenshot 3](https://i.imgur.com/uNLf7fo.png)
 
 You are free and encouraged to edit these files as you need to in order to suit your needs.
