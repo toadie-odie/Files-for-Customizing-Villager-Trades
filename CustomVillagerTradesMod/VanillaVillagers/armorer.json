@@ -17,8 +17,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:armorer_copper_coin_bag_for_coal"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -27,8 +26,8 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 40,
         "priceModifier": 0
       },
       "additionalRequest": {
@@ -39,8 +38,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:armorer_iron_helmet_for_copper_coin_bag_and_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -49,20 +47,15 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:iron_coin_bag",
-        "amount": 64,
+        "itemKey": "todecoins:gold_coin_bag",
+        "amount": 54,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:iron_coin_bag",
-        "amount": 8
       },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:armorer_iron_chestplate_for_iron_coin_bag_and_iron_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -71,20 +64,15 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 56,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 62
       },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:armorer_iron_leggings_for_copper_coin_bag_and_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -93,22 +81,17 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 32,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 8
       },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:armorer_iron_boots_for_copper_coin_bag_and_copper_coin_bag"
+      "tradeLevel": 1
     },
-    {
+	{
       "offer": {
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18,
@@ -123,8 +106,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:armorer_copper_coin_bag_for_iron_ingot"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -141,8 +123,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:armorer_bell_for_pot_of_gold"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -159,8 +140,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:armorer_chainmail_leggings_for_copper_coin_bag"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -177,8 +157,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:armorer_chainmail_boots_for_copper_coin_bag"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -195,8 +174,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_copper_coin_bag_for_lava_bucket"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -213,8 +191,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_copper_coin_bag_for_diamond"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -231,8 +208,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_chainmail_helmet_for_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -241,20 +217,15 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 32,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 8
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_chainmail_chestplate_for_copper_coin_bag_and_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -263,20 +234,15 @@
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 64,
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 40,
         "priceModifier": 0
-      },
-      "additionalRequest": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 26
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:armorer_shield_for_copper_coin_bag_and_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -296,17 +262,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 19,
-        "amountRange": 22,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 13,
+        "amountRange": 15,
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:armorer_diamond_leggings_for_emerald_bank_note"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -326,17 +291,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 13,
-        "amountRange": 27,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 9,
+        "amountRange": 18,
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:armorer_diamond_boots_for_emerald_bank_note"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -356,17 +320,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 13,
-        "amountRange": 27,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 9,
+        "amountRange": 18,
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:armorer_diamond_helmet_for_emerald_bank_note"
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -386,17 +349,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 21,
-        "amountRange": 35,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 14,
+        "amountRange": 24,
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:armorer_diamond_chestplate_for_emerald_bank_note"
+      "tradeLevel": 5
     }
   ]
 }
