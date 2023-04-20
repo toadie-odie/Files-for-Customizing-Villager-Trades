@@ -57,12 +57,98 @@
       "UTID": "minecraft:cartographer_copper_coin_bag_for_glass_pane"
     },
     {
-      "offer": {
-        "itemKey": "minecraft:filled_map",
-        "amount": 1,
-        "priceModifier": 0,
-        "mapStructure": "minecraft:monument"
-      },
+      "multiOffer": [
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_ancient_city_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_desert_pyramid_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_igloo_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_jungle_temple_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_mineshaft_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 0,
+			"mapStructure": "#minecraft:on_ocean_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_ocean_ruin_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_overworld_ruined_portal_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_pillager_outposts_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_shipwreck_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_stronghold_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_swamphut_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#minecraft:on_treasure_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 0,
+			"mapStructure": "#forge:on_village_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 0,
+			"mapStructure": "#minecraft:on_woodland_explorer_maps"
+        }
+      ],
       "request": {
         "itemKey": "todecoins:pot_of_gold",
         "amount": 9,
@@ -98,12 +184,98 @@
       "UTID": "minecraft:cartographer_copper_coin_bag_for_compass"
     },
     {
-      "offer": {
-        "itemKey": "minecraft:filled_map",
-        "amount": 1,
-        "priceModifier": 0,
-        "mapStructure": "minecraft:mansion"
-      },
+      "multiOffer": [
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_ancient_city_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_desert_pyramid_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_igloo_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_jungle_temple_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_mineshaft_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 0,
+			"mapStructure": "#minecraft:on_ocean_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_ocean_ruin_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_overworld_ruined_portal_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_pillager_outposts_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_shipwreck_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_stronghold_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#forge:on_swamphut_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 6,
+			"mapStructure": "#minecraft:on_treasure_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 0,
+			"mapStructure": "#forge:on_village_explorer_maps"
+        },
+        {
+			"itemKey": "minecraft:filled_map",
+			"amount": 1,
+			"priceModifier": 0,
+			"mapStructure": "#minecraft:on_woodland_explorer_maps"
+        }
+      ],
       "request": {
         "itemKey": "todecoins:pot_of_gold",
         "amount": 9,
@@ -234,6 +406,24 @@
       "demand": 0,
       "tradeLevel": 5,
       "UTID": "minecraft:cartographer_globe_banner_pattern_for_iron_coin_bag"
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:antique_ink",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 64,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:cartographer_antique_ink_for_iron_coin_bag"
     }
   ]
 }
