@@ -1,0 +1,458 @@
+{
+  "profession": "friendsandfoes:beekeeper",
+  "removeOtherTrades": true,
+  "trades": [
+		{
+			"offer":{
+				"itemKey":"todecoins:copper_coin_bag",
+				"amount":18
+			},
+			"multiRequest": [
+				{
+					"itemKey": "minecraft:dandelion",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:poppy",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:blue_orchid",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:allium",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:azure_bluet",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:red_tulip",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:orange_tulip",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:white_tulip",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:pink_tulip",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:oxeye_daisy",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:cornflower",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:lily_of_the_valley",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:sunflower",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:lilac",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:rose_bush",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:peony",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:fern",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:brown_mushroom",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:red_mushroom",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:vine",
+					"amount": 12
+				},
+				{
+					"itemKey": "friendsandfoes:buttercup",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:rose",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:violet",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:wildflower",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:orange_cosmos",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:pink_daffodil",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:pink_hibiscus",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:glowflower",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:wilted_lily",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:burning_blossom",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:tall_lavender",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:blue_hydrangea",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:goldenrod",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:icy_iris",
+					"amount": 12
+				}
+			],
+			"tradeExp":2,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":1
+		},
+		{
+			"offer":{
+				"itemKey":"todecoins:copper_coin_bag",
+				"amount":18
+			},
+			"multiRequest": [
+				{
+					"itemKey": "minecraft:dandelion",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:poppy",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:blue_orchid",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:allium",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:azure_bluet",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:red_tulip",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:orange_tulip",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:white_tulip",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:pink_tulip",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:oxeye_daisy",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:cornflower",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:lily_of_the_valley",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:sunflower",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:lilac",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:rose_bush",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:peony",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:fern",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:brown_mushroom",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:red_mushroom",
+					"amount": 12
+				},
+				{
+					"itemKey": "minecraft:vine",
+					"amount": 12
+				},
+				{
+					"itemKey": "friendsandfoes:buttercup",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:rose",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:violet",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:wildflower",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:orange_cosmos",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:pink_daffodil",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:pink_hibiscus",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:glowflower",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:wilted_lily",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:burning_blossom",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:tall_lavender",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:blue_hydrangea",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:goldenrod",
+					"amount": 12
+				},
+				{
+					"itemKey": "biomesoplenty:icy_iris",
+					"amount": 12
+				}
+			],
+			"tradeExp":2,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":1
+		},
+		{
+			"offer":{
+				"itemKey":"todecoins:copper_coin_bag",
+				"amount":36
+			},
+			"request":{
+				"itemKey": "minecraft:shears",
+				"amount": 1
+			},
+			"tradeExp":10,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":2
+		},
+		{
+			"offer":{
+				"itemKey":"todecoins:copper_coin_bag",
+				"amount":18
+			},
+			"request":{
+				"itemKey": "minecraft:glass_bottle",
+				"amount": 9
+			},
+			"tradeExp":10,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":2
+		},
+		{
+			"offer":{
+				"itemKey":"todecoins:copper_coin_bag",
+				"amount":36
+			},
+			"request":{
+				"itemKey": "minecraft:honey_block",
+				"amount": 1
+			},
+			"tradeExp":20,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":3
+		},
+		{
+			"offer":{
+				"itemKey": "minecraft:honey_bottle",
+				"amount": 1
+			},
+			"request":{
+				"itemKey":"todecoins:copper_coin_bag",
+				"amount":18
+			},
+			"tradeExp":10,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":3
+		},
+		{
+			"offer":{
+				"itemKey":"todecoins:copper_coin_bag",
+				"amount":36
+			},
+			"request":{
+				"itemKey": "minecraft:honeycomb_block",
+				"amount": 1
+			},
+			"tradeExp":30,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":4
+		},
+		{
+			"offer":{
+				"itemKey": "minecraft:honeycomb",
+				"amount": 4
+			},
+			"request":{
+				"itemKey":"todecoins:copper_coin_bag",
+				"amount":18
+			},
+			"tradeExp":15,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":4
+		},
+		{			
+			"multiOffer": [
+				{
+					"itemKey": "minecraft:beehive",
+					"amount": 1
+				},
+				{
+					"itemKey": "friendsandfoes:acacia_beehive",
+					"amount": 1
+				},
+				{
+					"itemKey": "friendsandfoes:birch_beehive",
+					"amount": 1
+				},
+				{
+					"itemKey": "friendsandfoes:crimson_beehive",
+					"amount": 1
+				},
+				{
+					"itemKey": "friendsandfoes:dark_oak_beehive",
+					"amount": 1
+				},
+				{
+					"itemKey": "friendsandfoes:jungle_beehive",
+					"amount": 1
+				},
+				{
+					"itemKey": "friendsandfoes:mangrove_beehive",
+					"amount": 1
+				},
+				{
+					"itemKey": "friendsandfoes:spruce_beehive",
+					"amount": 1
+				},
+				{
+					"itemKey": "friendsandfoes:warped_beehive",
+					"amount": 1
+				}
+			],
+			"request":{
+				"itemKey":"todecoins:pot_of_gold",
+				"amount":8
+			},
+			"tradeExp":30,
+			"maxUses":16,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":5
+		},
+		{			
+			"offer":{
+				"itemKey": "minecraft:bee_spawn_egg",
+				"amount": 1
+			},
+			"request":{
+				"itemKey":"todecoins:pot_of_gold",
+				"amount":16
+			},
+			"tradeExp":30,
+			"maxUses":3,
+			"priceMultiplier":0.05,
+			"demand":0,
+			"tradeLevel":5
+		}
+  ]
+}
