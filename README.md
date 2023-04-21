@@ -11,3 +11,6 @@ You'll need to remove the trades from these files for the mods you're not using.
 A wiki has been created to provide instructions if needed.
 
 Feel free to let me know if there is anything you need.
+
+If you'd like to use my currency conversion chart to aid you in customizing your trades, you can find it here:
+https://docs.google.com/spreadsheets/d/15AZe5oeVL_DL6y-Z7FUgwX-0nI-GtaRYZaIjsIUUsoE/edit#gid=0
