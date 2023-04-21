@@ -12,6 +12,7 @@ The purpose of this repository is to share some default customized villager trad
 * Chimes - https://www.curseforge.com/minecraft/mc-mods/chimes
 * MrCrayfish's Furniture Mod - https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
 * Botany Pots - https://www.curseforge.com/minecraft/mc-mods/botany-pots
+* More Villagers - https://www.curseforge.com/minecraft/mc-mods/more-villagers
 
 <i>You'll need to remove the trades from these files for the mods you're not using.</i>
 
