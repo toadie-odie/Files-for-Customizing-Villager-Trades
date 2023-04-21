@@ -1,6 +1,6 @@
 The purpose of this repository is to share some default customized villager trade files for the TodeCoins mod to make use of the coins the mod provides.
 
-I have added trades to these files from the following mods:
+I have added trades to these files for the following mods:
 * Supplementaries - https://www.curseforge.com/minecraft/mc-mods/supplementaries
 * Farmer's Delight - https://www.curseforge.com/minecraft/mc-mods/farmers-delight
 * Biomes O' Plenty - https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
