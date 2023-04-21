@@ -5,6 +5,7 @@ I have added trades to these files for the following mods:
 * Farmer's Delight - https://www.curseforge.com/minecraft/mc-mods/farmers-delight
 * Biomes O' Plenty - https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 * Friends and Foes - https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge
+* Delightful - https://www.curseforge.com/minecraft/mc-mods/delightful
 
 You'll need to remove the trades from these files for the mods you're not using.
 
