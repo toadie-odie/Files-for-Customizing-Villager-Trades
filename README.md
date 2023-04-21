@@ -13,6 +13,7 @@ The purpose of this repository is to share some default customized villager trad
 * MrCrayfish's Furniture Mod - https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
 * Botany Pots - https://www.curseforge.com/minecraft/mc-mods/botany-pots
 * More Villagers - https://www.curseforge.com/minecraft/mc-mods/more-villagers
+* Comforts - https://www.curseforge.com/minecraft/mc-mods/comforts
 
 <i>You'll need to remove the trades from these files for the mods you're not using.</i>
 
