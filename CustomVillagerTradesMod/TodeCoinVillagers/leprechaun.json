@@ -218,14 +218,12 @@
       "tradeLevel": 4
     },
 	{
-      "offer": [
-        {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 0,
-			"mapStructure": "#minecraft:on_treasure_maps"
-        }
-      ],
+      "offer": {
+        "itemKey": "minecraft:filled_map",
+        "amount": 1,
+        "priceModifier": 0,
+        "mapStructure": "#minecraft:on_treasure_maps"
+      },
       "request": {
         "itemKey": "todecoins:pot_of_gold",
         "amount": 9,

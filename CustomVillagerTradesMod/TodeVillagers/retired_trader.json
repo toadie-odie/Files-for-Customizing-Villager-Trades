@@ -1,5 +1,5 @@
 {
-  "profession": "wanderer",
+  "profession": "todevillagers:retired_trader",
   "removeOtherTrades": true,
   "trades": [
     {
@@ -186,7 +186,7 @@
           "amount": 1
         },
         {
-          "itemKey": "supplementaries:flax_seed",
+          "itemKey": "supplementaries:flax_seeds",
           "amount": 1
         }
       ],
@@ -249,7 +249,7 @@
           "amount": 2
         },
         {
-          "itemKey": "farmersdelight:small_dripleaf",
+          "itemKey": "minecraft:small_dripleaf",
           "amount": 2
         }
       ],
