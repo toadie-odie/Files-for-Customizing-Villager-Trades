@@ -16,6 +16,7 @@ The purpose of this repository is to share some default customized villager trad
 * Comforts - https://www.curseforge.com/minecraft/mc-mods/comforts
 * Backpacked - https://www.curseforge.com/minecraft/mc-mods/backpacked
 * Camp Chair - https://www.curseforge.com/minecraft/mc-mods/camp-chair
+* Chalk - https://www.curseforge.com/minecraft/mc-mods/chalk
 
 <i>You'll need to remove the trades from these files for the mods you're not using.</i>
 
