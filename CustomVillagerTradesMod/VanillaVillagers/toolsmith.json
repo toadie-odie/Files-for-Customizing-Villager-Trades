@@ -17,15 +17,31 @@
       "maxUses": 6,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:toolsmith_copper_coin_bag_for_coal"
+      "tradeLevel": 1
     },
     {
-      "offer": {
-        "itemKey": "minecraft:stone_pickaxe",
-        "amount": 1,
-        "priceModifier": 0
-      },
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:stone_pickaxe",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "minecraft:stone_shovel",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "minecraft:stone_hoe",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "minecraft:stone_axe",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
       "request": {
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18,
@@ -35,62 +51,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:toolsmith_stone_pickaxe_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:stone_shovel",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18,
-        "priceModifier": 0
-      },
-      "tradeExp": 1,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:toolsmith_stone_shovel_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:stone_hoe",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18,
-        "priceModifier": 0
-      },
-      "tradeExp": 1,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:toolsmith_stone_hoe_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:stone_axe",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18,
-        "priceModifier": 0
-      },
-      "tradeExp": 1,
-      "maxUses": 12,
-      "priceMultiplier": 0.2,
-      "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:toolsmith_stone_axe_for_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -106,8 +67,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:toolsmith_copper_coin_bag_for_iron_ingot"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -124,8 +84,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:toolsmith_bell_for_pot_of_gold"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -142,8 +101,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:toolsmith_copper_coin_bag_for_flint"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -163,17 +121,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 6,
-        "amountRange": 20,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4,
+        "amountRange": 14,
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:toolsmith_iron_axe_for_emerald_bank_note"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -193,17 +150,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 7,
-        "amountRange": 21,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 5,
+        "amountRange": 14,
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:toolsmith_iron_shovel_for_emerald_bank_note"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -223,17 +179,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 8,
-        "amountRange": 22,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 6,
+        "amountRange": 15,
         "priceModifier": 0
       },
       "tradeExp": 10,
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:toolsmith_iron_pickaxe_for_emerald_bank_note"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -250,8 +205,7 @@
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:toolsmith_diamond_hoe_for_iron_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -268,8 +222,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:toolsmith_copper_coin_bag_for_diamond"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -289,17 +242,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 17,
-        "amountRange": 31,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 12,
+        "amountRange": 21,
         "priceModifier": 0
       },
       "tradeExp": 15,
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:toolsmith_diamond_axe_for_emerald_bank_note"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -319,17 +271,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 10,
-        "amountRange": 24,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 7,
+        "amountRange": 16,
         "priceModifier": 0
       },
       "tradeExp": 15,
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:toolsmith_diamond_shovel_for_emerald_bank_note"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -349,17 +300,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 18,
-        "amountRange": 32,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 12,
+        "amountRange": 22,
         "priceModifier": 0
       },
       "tradeExp": 30,
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:toolsmith_diamond_pickaxe_for_emerald_bank_note"
+      "tradeLevel": 5
     }
   ]
 }

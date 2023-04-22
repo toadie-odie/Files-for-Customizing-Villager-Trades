@@ -15,8 +15,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:leatherworker_copper_coin_bag_for_leather"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -31,8 +30,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:leatherworker_leather_leggings_for_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -47,8 +45,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:leatherworker_leather_chestplate_for_iron_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -63,8 +60,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:leatherworker_copper_coin_bag_for_flint"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -79,8 +75,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:leatherworker_leather_helmet_for_iron_coin_bag"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -95,8 +90,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:leatherworker_leather_boots_for_iron_coin_bag"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -111,24 +105,34 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:leatherworker_copper_coin_bag_for_rabbit_hide"
+      "tradeLevel": 3
     },
     {
       "offer": {
         "itemKey": "minecraft:leather_chestplate",
-        "amount": 1
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
       },
       "request": {
-        "itemKey": "todecoins:iron_coin_bag",
-        "amount": 56
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 5,
+        "amountRange": 7
       },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:leatherworker_leather_chestplate_for_iron_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -143,8 +147,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:leatherworker_copper_coin_bag_for_scute"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -159,8 +162,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:leatherworker_leather_horse_armor_for_iron_coin_bag"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -175,24 +177,34 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:leatherworker_saddle_for_iron_coin_bag"
+      "tradeLevel": 5
     },
     {
       "offer": {
         "itemKey": "minecraft:leather_helmet",
-        "amount": 1
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
       },
       "request": {
-        "itemKey": "todecoins:iron_coin_bag",
-        "amount": 40
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4,
+        "amountRange": 6
       },
       "tradeExp": 30,
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:leatherworker_leather_helmet_for_iron_coin_bag"
+      "tradeLevel": 5
     }
   ]
 }

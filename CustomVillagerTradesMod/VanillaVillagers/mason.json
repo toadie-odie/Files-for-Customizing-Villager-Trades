@@ -4,6 +4,23 @@
   "trades": [
     {
       "offer": {
+        "itemKey": "supplementaries:ash_brick",
+        "amount": 10,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18,
         "priceModifier": 0
@@ -17,8 +34,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:mason_copper_coin_bag_for_clay_ball"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -35,8 +51,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:mason_brick_for_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -53,8 +68,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:mason_copper_coin_bag_for_stone"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -71,8 +85,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:mason_chiseled_stone_bricks_for_copper_coin_bag"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -89,8 +102,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:mason_copper_coin_bag_for_granite"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -107,8 +119,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:mason_copper_coin_bag_for_andesite"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -125,8 +136,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:mason_copper_coin_bag_for_diorite"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -143,8 +153,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:mason_polished_andesite_for_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -161,8 +170,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:mason_polished_granite_for_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -179,8 +187,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:mason_polished_diorite_for_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -197,8 +204,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:mason_dripstone_block_for_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -215,8 +221,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:mason_copper_coin_bag_for_quartz"
+      "tradeLevel": 4
     },
     {
       "multiOffer": [
@@ -315,8 +320,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:mason_multioffer_terracotta_for_copper_coin_bag"
+      "tradeLevel": 4
     },
     {
       "multiOffer": [
@@ -410,8 +414,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:mason_multioffer_white_glazed_terracotta_for_copper_coin_bag"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -428,8 +431,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:mason_quartz_pillar_for_copper_coin_bag"
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -446,8 +448,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:mason_quartz_block_for_copper_coin_bag"
+      "tradeLevel": 5
     }
   ]
 }

@@ -15,8 +15,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:librarian_copper_coin_bag_for_paper"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -48,8 +47,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:librarian_enchanted_book_for_book_and_emerald_bank_note"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -64,8 +62,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:librarian_bookshelf_for_gold_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -80,8 +77,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:librarian_copper_coin_bag_for_book"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -96,8 +92,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:librarian_lantern_for_copper_coin_bag"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -129,8 +124,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:librarian_enchanted_book_for_book_and_emerald_bank_note"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -145,8 +139,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:librarian_copper_coin_bag_for_ink_sac"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -161,8 +154,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:librarian_glass_for_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -194,8 +186,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:librarian_enchanted_book_for_book_and_emerald_bank_note"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -210,8 +201,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:librarian_copper_coin_bag_for_writable_book"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -226,8 +216,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:librarian_compass_for_iron_coin_bag"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -242,8 +231,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:librarian_clock_for_iron_coin_bag"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -275,8 +263,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:librarian_enchanted_book_for_book_and_emerald_bank_note"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -291,8 +278,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:librarian_name_tag_for_emerald_quarter_bank_note"
+      "tradeLevel": 5
     }
   ]
 }

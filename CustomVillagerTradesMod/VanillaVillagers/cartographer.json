@@ -17,8 +17,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:cartographer_copper_coin_bag_for_paper"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -35,8 +34,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:cartographer_map_for_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -53,100 +51,99 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:cartographer_copper_coin_bag_for_glass_pane"
+      "tradeLevel": 2
     },
     {
       "multiOffer": [
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_ancient_city_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_ancient_city_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_desert_pyramid_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_desert_pyramid_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_igloo_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_igloo_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_jungle_temple_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_jungle_temple_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_mineshaft_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_mineshaft_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 0,
-			"mapStructure": "#minecraft:on_ocean_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 0,
+          "mapStructure": "#minecraft:on_ocean_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_ocean_ruin_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_ocean_ruin_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_overworld_ruined_portal_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_overworld_ruined_portal_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_pillager_outposts_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_pillager_outposts_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_shipwreck_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_shipwreck_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_stronghold_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_stronghold_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_swamphut_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_swamphut_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#minecraft:on_treasure_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#minecraft:on_treasure_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 0,
-			"mapStructure": "#forge:on_village_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 0,
+          "mapStructure": "#forge:on_village_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 0,
-			"mapStructure": "#minecraft:on_woodland_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 0,
+          "mapStructure": "#minecraft:on_woodland_explorer_maps"
         }
       ],
       "request": {
@@ -162,8 +159,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:cartographer_filled_map_for_pot_of_gold_and_compass"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -180,100 +176,99 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:cartographer_copper_coin_bag_for_compass"
+      "tradeLevel": 3
     },
     {
       "multiOffer": [
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_ancient_city_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_ancient_city_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_desert_pyramid_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_desert_pyramid_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_igloo_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_igloo_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_jungle_temple_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_jungle_temple_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_mineshaft_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_mineshaft_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 0,
-			"mapStructure": "#minecraft:on_ocean_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 0,
+          "mapStructure": "#minecraft:on_ocean_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_ocean_ruin_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_ocean_ruin_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_overworld_ruined_portal_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_overworld_ruined_portal_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_pillager_outposts_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_pillager_outposts_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_shipwreck_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_shipwreck_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_stronghold_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_stronghold_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#forge:on_swamphut_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_swamphut_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 6,
-			"mapStructure": "#minecraft:on_treasure_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#minecraft:on_treasure_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 0,
-			"mapStructure": "#forge:on_village_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 0,
+          "mapStructure": "#forge:on_village_explorer_maps"
         },
         {
-			"itemKey": "minecraft:filled_map",
-			"amount": 1,
-			"priceModifier": 0,
-			"mapStructure": "#minecraft:on_woodland_explorer_maps"
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 0,
+          "mapStructure": "#minecraft:on_woodland_explorer_maps"
         }
       ],
       "request": {
@@ -289,8 +284,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:cartographer_filled_map_for_pot_of_gold_and_compass"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -307,8 +301,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:cartographer_item_frame_for_iron_coin_bag"
+      "tradeLevel": 4
     },
     {
       "multiOffer": [
@@ -386,8 +379,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:cartographer_multioffer_white_banner_for_copper_coin_bag"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -404,8 +396,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:cartographer_globe_banner_pattern_for_iron_coin_bag"
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -422,8 +413,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:cartographer_antique_ink_for_iron_coin_bag"
+      "tradeLevel": 5
     }
   ]
 }

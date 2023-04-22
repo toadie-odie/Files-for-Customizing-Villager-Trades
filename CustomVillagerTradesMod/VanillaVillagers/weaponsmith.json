@@ -17,8 +17,7 @@
       "maxUses": 6,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:weaponsmith_copper_coin_bag_for_coal"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -35,8 +34,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:weaponsmith_iron_axe_for_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -56,17 +54,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 7,
-        "amountRange": 21,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 5,
+        "amountRange": 14,
         "priceModifier": 0
       },
       "tradeExp": 1,
       "maxUses": 3,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:weaponsmith_iron_sword_for_emerald_bank_note"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -83,8 +80,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:weaponsmith_copper_coin_bag_for_iron_ingot"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -101,8 +97,7 @@
       "maxUses": 10,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:weaponsmith_bell_for_pot_of_gold"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -119,8 +114,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:weaponsmith_copper_coin_bag_for_flint"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -137,8 +131,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:weaponsmith_copper_coin_bag_for_diamond"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -158,17 +151,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 17,
-        "amountRange": 31,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 12,
+        "amountRange": 21,
         "priceModifier": 0
       },
       "tradeExp": 15,
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:weaponsmith_diamond_axe_for_emerald_bank_note"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -188,17 +180,16 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 13,
-        "amountRange": 27,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 9,
+        "amountRange": 18,
         "priceModifier": 0
       },
       "tradeExp": 30,
       "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:weaponsmith_diamond_sword_for_emerald_bank_note"
+      "tradeLevel": 5
     }
   ]
 }

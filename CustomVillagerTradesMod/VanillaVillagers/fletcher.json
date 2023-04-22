@@ -15,8 +15,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:fletcher_copper_coin_bag_for_stick"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -31,8 +30,7 @@
       "maxUses": 10,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:fletcher_arrow_for_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -51,8 +49,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:fletcher_flint_for_copper_coin_bag_and_gravel"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -67,8 +64,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:fletcher_copper_coin_bag_for_flint"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -83,8 +79,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:fletcher_bow_for_copper_coin_bag"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -99,8 +94,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:fletcher_copper_coin_bag_for_string"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -115,8 +109,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:fletcher_crossbow_for_copper_coin_bag"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -131,8 +124,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:fletcher_copper_coin_bag_for_feather"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -152,16 +144,15 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 7,
-        "amountRange": 21
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 5,
+        "amountRange": 14
       },
       "tradeExp": 15,
       "maxUses": 3,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:fletcher_bow_for_emerald_bank_note"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -176,8 +167,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:fletcher_copper_coin_bag_for_tripwire_hook"
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -197,16 +187,15 @@
         ]
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
-        "amount": 8,
-        "amountRange": 22
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 6,
+        "amountRange": 15
       },
       "tradeExp": 15,
       "maxUses": 3,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:fletcher_crossbow_for_emerald_bank_note"
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -235,8 +224,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:fletcher_tipped_arrow_for_arrow_and_iron_coin_bag"
+      "tradeLevel": 5
     }
   ]
 }

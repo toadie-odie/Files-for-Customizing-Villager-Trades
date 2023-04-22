@@ -4,13 +4,13 @@
   "trades": [
     {
       "offer": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18,
+        "itemKey": "todecoins:emerald_quarter_bank_note",
+        "amount": 1,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "minecraft:emerald",
-        "amount": 1,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 11,
         "priceModifier": 0
       },
       "tradeExp": 1,
@@ -21,13 +21,13 @@
     },
     {
       "offer": {
-        "itemKey": "minecraft:emerald",
-        "amount": 1,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 11,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18,
+        "itemKey": "todecoins:emerald_quarter_bank_note",
+        "amount": 1,
         "priceModifier": 0
       },
       "tradeExp": 2,
@@ -38,13 +38,13 @@
     },
     {
       "offer": {
-        "itemKey": "todecoins:iron_coin",
+        "itemKey": "todecoins:emerald_half_bank_note",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:copper_coin",
-        "amount": 2,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21,
         "priceModifier": 0
       },
       "tradeExp": 5,
@@ -55,12 +55,12 @@
     },
     {
       "offer": {
-        "itemKey": "todecoins:copper_coin",
-        "amount": 2,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:iron_coin",
+        "itemKey": "todecoins:emerald_half_bank_note",
         "amount": 1,
         "priceModifier": 0
       },
@@ -72,13 +72,13 @@
     },
     {
       "offer": {
-        "itemKey": "todecoins:gold_coin",
+        "itemKey": "todecoins:emerald_bank_note",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:iron_coin",
-        "amount": 2,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 43,
         "priceModifier": 0
       },
       "tradeExp": 10,
@@ -89,12 +89,12 @@
     },
     {
       "offer": {
-        "itemKey": "todecoins:iron_coin",
-        "amount": 2,
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 43,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:gold_coin",
+        "itemKey": "todecoins:emerald_bank_note",
         "amount": 1,
         "priceModifier": 0
       },
@@ -105,64 +105,143 @@
       "tradeLevel": 3
     },
     {
-      "offer": {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:prismarine_shard",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:redstone_block",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:name_tag",
+          "amount": 1
+        }
+      ],
+      "request": {
         "itemKey": "todecoins:emerald_quarter_bank_note",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "minecraft:emerald",
-        "amount": 16,
-        "priceModifier": 0
+        "amount": 1
       },
       "tradeExp": 15,
-      "maxUses": 16,
+      "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 4
     },
     {
-      "offer": {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:prismarine_crystals",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:bell",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:dragon_head",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:dragon_egg",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:elytra",
+          "amount": 1
+        }
+      ],
+      "request": {
         "itemKey": "todecoins:emerald_half_bank_note",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "minecraft:emerald",
-        "amount": 32,
-        "priceModifier": 0
+        "amount": 1
       },
       "tradeExp": 15,
-      "maxUses": 16,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:netherite_scrap",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:prismarine",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 1
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 4
     },
     {
       "offer": {
-        "itemKey": "todecoins:emerald_bank_note",
+        "itemKey": "minecraft:sea_lantern",
         "amount": 1,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "minecraft:emerald",
-        "amount": 64,
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:netherite_ingot",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:nether_star",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:lucky_coin",
+        "amount": 3,
         "priceModifier": 0
       },
       "tradeExp": 30,
-      "maxUses": 16,
+      "maxUses": 3,
       "priceMultiplier": 0.2,
       "demand": 0,
       "tradeLevel": 5
     },
     {
       "offer": {
-        "itemKey": "minecraft:emerald",
-        "amount": 64,
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 3,
         "priceModifier": 0
       },
       "request": {
-        "itemKey": "todecoins:emerald_bank_note",
+        "itemKey": "todecoins:lucky_coin",
         "amount": 1,
         "priceModifier": 0
       },
@@ -172,5 +251,5 @@
       "demand": 0,
       "tradeLevel": 5
     }
-   ]
+  ]
 }

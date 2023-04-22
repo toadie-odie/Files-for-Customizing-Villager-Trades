@@ -15,8 +15,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:farmer_copper_coin_bag_for_wheat"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -31,8 +30,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:farmer_copper_coin_bag_for_potato"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -47,8 +45,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:farmer_copper_coin_bag_for_carrot"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -63,8 +60,37 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:farmer_copper_coin_bag_for_beetroot"
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "farmersdelight:onion",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 26,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "farmersdelight:tomato",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 26,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -79,8 +105,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 1,
-      "UTID": "minecraft:farmer_bread_for_copper_coin_bag"
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -95,8 +120,37 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:farmer_copper_coin_bag_for_pumpkin"
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "farmersdelight:cabbage",
+        "amount": 16
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "farmersdelight:rice",
+        "amount": 20
+      },
+      "tradeExp": 5,
+      "maxUses": 20,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
     },
     {
       "multiOffer": [
@@ -117,8 +171,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2,
-      "UTID": "minecraft:farmer_multioffer_pumpkin_pie_for_copper_coin_bag"
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -133,8 +186,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:farmer_copper_coin_bag_for_melon"
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -149,8 +201,22 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3,
-      "UTID": "minecraft:farmer_cookie_for_copper_coin_bag"
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "supplementaries:flax",
+        "amount": 20
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -165,23 +231,89 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:farmer_cake_for_copper_coin_bag"
+      "tradeLevel": 4
     },
     {
-      "offer": {
-        "itemKey": "minecraft:suspicious_stew",
-        "amount": 1,
-        "effects": [
-          {
-            "effectKey": "minecraft:night_vision",
-            "duration": 100,
-            "level": 1,
-            "isVisible": true,
-            "potionKey": "minecraft:empty"
-          }
-        ]
-      },
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:suspicious_stew",
+          "amount": 1,
+          "effects": [
+            {
+              "effectKey": "minecraft:night_vision",
+              "duration": 100,
+              "level": 1,
+              "isVisible": true,
+              "potionKey": "minecraft:empty"
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:suspicious_stew",
+          "amount": 1,
+          "effects": [
+            {
+              "effectKey": "minecraft:jump_boost",
+              "duration": 160,
+              "level": 1,
+              "isVisible": true,
+              "potionKey": "minecraft:empty"
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:suspicious_stew",
+          "amount": 1,
+          "effects": [
+            {
+              "effectKey": "minecraft:weakness",
+              "duration": 140,
+              "level": 1,
+              "isVisible": true,
+              "potionKey": "minecraft:empty"
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:suspicious_stew",
+          "amount": 1,
+          "effects": [
+            {
+              "effectKey": "minecraft:blindness",
+              "duration": 120,
+              "level": 1,
+              "isVisible": true,
+              "potionKey": "minecraft:empty"
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:suspicious_stew",
+          "amount": 1,
+          "effects": [
+            {
+              "effectKey": "minecraft:poison",
+              "duration": 280,
+              "level": 1,
+              "isVisible": true,
+              "potionKey": "minecraft:empty"
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:suspicious_stew",
+          "amount": 1,
+          "effects": [
+            {
+              "effectKey": "minecraft:saturation",
+              "duration": 7,
+              "level": 1,
+              "isVisible": true,
+              "potionKey": "minecraft:empty"
+            }
+          ]
+        }
+      ],
       "request": {
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18
@@ -190,133 +322,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:suspicious_stew",
-        "amount": 1,
-        "effects": [
-          {
-            "effectKey": "minecraft:jump_boost",
-            "duration": 160,
-            "level": 1,
-            "isVisible": true,
-            "potionKey": "minecraft:empty"
-          }
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18
-      },
-      "tradeExp": 15,
-      "maxUses": 12,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:suspicious_stew",
-        "amount": 1,
-        "effects": [
-          {
-            "effectKey": "minecraft:weakness",
-            "duration": 140,
-            "level": 1,
-            "isVisible": true,
-            "potionKey": "minecraft:empty"
-          }
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18
-      },
-      "tradeExp": 15,
-      "maxUses": 12,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:suspicious_stew",
-        "amount": 1,
-        "effects": [
-          {
-            "effectKey": "minecraft:blindness",
-            "duration": 120,
-            "level": 1,
-            "isVisible": true,
-            "potionKey": "minecraft:empty"
-          }
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18
-      },
-      "tradeExp": 15,
-      "maxUses": 12,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:suspicious_stew",
-        "amount": 1,
-        "effects": [
-          {
-            "effectKey": "minecraft:poison",
-            "duration": 280,
-            "level": 1,
-            "isVisible": true,
-            "potionKey": "minecraft:empty"
-          }
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18
-      },
-      "tradeExp": 15,
-      "maxUses": 12,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
-    },
-    {
-      "offer": {
-        "itemKey": "minecraft:suspicious_stew",
-        "amount": 1,
-        "effects": [
-          {
-            "effectKey": "minecraft:saturation",
-            "duration": 7,
-            "level": 1,
-            "isVisible": true,
-            "potionKey": "minecraft:empty"
-          }
-        ]
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18
-      },
-      "tradeExp": 15,
-      "maxUses": 12,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 4,
-      "UTID": "minecraft:farmer_suspicious_stew_for_copper_coin_bag"
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -331,8 +337,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:farmer_golden_carrot_for_copper_coin_bag"
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -347,8 +352,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5,
-      "UTID": "minecraft:farmer_glistering_melon_slice_for_iron_coin_bag"
+      "tradeLevel": 5
     }
   ]
 }
