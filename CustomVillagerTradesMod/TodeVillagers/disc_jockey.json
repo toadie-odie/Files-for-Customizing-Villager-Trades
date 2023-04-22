@@ -1,0 +1,397 @@
+{
+  "profession": "todevillagers:disc_jockey",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:redstone",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:disc_fragment_5",
+          "amount": 2
+        }
+      ],
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:amethyst_shard",
+          "amount": 4
+        },
+        {
+          "itemKey": "supplementaries:pancake",
+          "amount": 1,
+          "priceModifier": 18
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:gold_coin_bag",
+        "amount": 48
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:ponder_goat_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:sing_goat_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:seek_goat_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:feel_goat_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:admire_goat_horn",
+          "amount": 1,
+          "priceModifier": 16
+        },
+        {
+          "itemKey": "minecraft:call_goat_horn",
+          "amount": 1,
+          "priceModifier": 16
+        },
+        {
+          "itemKey": "minecraft:yearn_goat_horn",
+          "amount": 1,
+          "priceModifier": 16
+        },
+        {
+          "itemKey": "minecraft:dream_goat_horn",
+          "amount": 1,
+          "priceModifier": 16
+        }
+      ],
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:ponder_goat_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:sing_goat_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:seek_goat_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:feel_goat_horn",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:admire_goat_horn",
+          "amount": 1,
+          "priceModifier": 16
+        },
+        {
+          "itemKey": "minecraft:call_goat_horn",
+          "amount": 1,
+          "priceModifier": 16
+        },
+        {
+          "itemKey": "minecraft:yearn_goat_horn",
+          "amount": 1,
+          "priceModifier": 16
+        },
+        {
+          "itemKey": "minecraft:dream_goat_horn",
+          "amount": 1,
+          "priceModifier": 16
+        },
+        {
+          "itemKey": "minecraft:noteblock",
+          "amount": 2,
+          "priceModifier": -24
+        },
+        {
+          "itemKey": "minecraft:jukebox",
+          "amount": 1,
+          "priceModifier": -24
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:music_disc_chirp",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_far",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_wait",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_mellohi",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "tradeExp": 5,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:music_disc_chirp",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_far",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_wait",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_mellohi",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 10,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:music_disc_mall",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_stal",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_13",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_ward",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "tradeExp": 10,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:music_disc_mall",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_stal",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_13",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_ward",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 20,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:biomesoplenty:music_disc_wanderer",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_cat",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_blocks",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_pigstep",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_otherside",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:biomesoplenty:music_disc_wanderer",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_cat",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_blocks",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_pigstep",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_otherside",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:todevillagers:chakra_dream_music_disc",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_strad",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_5",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_11",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:todevillagers:chakra_dream_music_disc",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_strad",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_5",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:music_disc_11",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}
