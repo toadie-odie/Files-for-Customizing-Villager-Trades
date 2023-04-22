@@ -17,6 +17,8 @@ The purpose of this repository is to share some default customized villager trad
 * Backpacked - https://www.curseforge.com/minecraft/mc-mods/backpacked
 * Camp Chair - https://www.curseforge.com/minecraft/mc-mods/camp-chair
 * Chalk - https://www.curseforge.com/minecraft/mc-mods/chalk
+* Annabeth's Extra Villagers - https://www.curseforge.com/minecraft/mc-mods/annabeths-extra-villagers
+* Handcrafted Mod - https://www.curseforge.com/minecraft/mc-mods/handcrafted
 
 <i>You'll need to remove the trades from these files for the mods you're not using.</i>
 
@@ -25,6 +27,8 @@ The purpose of this repository is to share some default customized villager trad
 A wiki has been created to provide instructions if needed.
 
 <i>Feel free to let me know if there is anything you need.</i>
+
+Side Note: The Red Merchant from Supplementaries is not included in these files. Not sure why exactly, but the json file for the Custom Villager Trades mod doesn't work. Not sure if it's due to the order in which mods load or the way this merchant is registered in its mod. If I figure it out and get it working, it will be added.
 
 <hr />
 
