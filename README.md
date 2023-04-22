@@ -22,6 +22,7 @@ The purpose of this repository is to share some default customized villager trad
 * Macaw's Furniture - https://www.curseforge.com/minecraft/mc-mods/macaws-furniture
 * Apple Crates - https://www.curseforge.com/minecraft/mc-mods/apple-crates
 * Plenty Crates - https://www.curseforge.com/minecraft/mc-mods/plenty-crates
+* XercaMod - https://www.curseforge.com/minecraft/mc-mods/xercamod
 
 <i>You'll need to remove the trades from these files for the mods you're not using.</i>
 
