@@ -19,6 +19,9 @@ The purpose of this repository is to share some default customized villager trad
 * Chalk - https://www.curseforge.com/minecraft/mc-mods/chalk
 * Annabeth's Extra Villagers - https://www.curseforge.com/minecraft/mc-mods/annabeths-extra-villagers
 * Handcrafted Mod - https://www.curseforge.com/minecraft/mc-mods/handcrafted
+* Macaw's Furniture - https://www.curseforge.com/minecraft/mc-mods/macaws-furniture
+* Apple Crates - https://www.curseforge.com/minecraft/mc-mods/apple-crates
+* Plenty Crates - https://www.curseforge.com/minecraft/mc-mods/plenty-crates
 
 <i>You'll need to remove the trades from these files for the mods you're not using.</i>
 
