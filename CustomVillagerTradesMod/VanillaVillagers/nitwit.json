@@ -1,0 +1,150 @@
+{
+  "profession": "minecraft:nitwit",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:player_head",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{SkullOwner:{Name:\"ToadieOdie\"}}"
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:player_head",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{SkullOwner:{Name:\"Minepika94\"}}"
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:player_head",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{SkullOwner:{Name:\"MikieSteve\"}}"
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:player_head",
+        "amount": 15,
+        "priceModifier": 0,
+        "advancedNBTData": "{SkullOwner:{Name:\"EnderDragonRobot\"}}"
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 15,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:player_head",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{SkullOwner:{Name:\"Technoblade\"}}"
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:player_head",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{SkullOwner:{Name:\"MHF_Steve\"}}"
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:player_head",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{SkullOwner:{Name:\"MHF_Alex\"}}"
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:player_head",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{SkullOwner:{Name:\"MHF_Herobrine\"}}"
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}
