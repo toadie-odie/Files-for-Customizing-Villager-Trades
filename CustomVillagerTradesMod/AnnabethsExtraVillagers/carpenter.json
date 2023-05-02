@@ -138,11 +138,6 @@
           "priceModifier": 0
         },
         {
-          "itemKey": "applecrates:mangrove_crate",
-          "amount": 1,
-          "priceModifier": 0
-        },
-        {
           "itemKey": "applecrates:oak_crate",
           "amount": 1,
           "priceModifier": 0
@@ -580,52 +575,47 @@
     {
       "multiOffer": [
         {
-          "itemKey": "mcw:acacia_bookshelf",
+          "itemKey": "mcwfurnitures:acacia_bookshelf",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:birch_bookshelf",
+          "itemKey": "mcwfurnitures:birch_bookshelf",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:crimson_bookshelf",
+          "itemKey": "mcwfurnitures:crimson_bookshelf",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:dark_oak_bookshelf",
+          "itemKey": "mcwfurnitures:dark_oak_bookshelf",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:jungle_bookshelf",
+          "itemKey": "mcwfurnitures:jungle_bookshelf",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:mangrove_bookshelf",
+          "itemKey": "mcwfurnitures:mangrove_bookshelf",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:oak_bookshelf",
+          "itemKey": "mcwfurnitures:oak_bookshelf",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:spruce_bookshelf",
+          "itemKey": "mcwfurnitures:spruce_bookshelf",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:warped_bookshelf",
-          "amount": 1,
-          "priceModifier": 0
-        },
-        {
-          "itemKey": "xercamod:item_bookcase",
+          "itemKey": "mcwfurnitures:warped_bookshelf",
           "amount": 1,
           "priceModifier": 0
         }
@@ -644,47 +634,47 @@
     {
       "multiOffer": [
         {
-          "itemKey": "mcw:acacia_modern_wardrobe",
+          "itemKey": "mcwfurnitures:acacia_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:birch_modern_wardrobe",
+          "itemKey": "mcwfurnitures:birch_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:crimson_modern_wardrobe",
+          "itemKey": "mcwfurnitures:crimson_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:dark_oak_modern_wardrobe",
+          "itemKey": "mcwfurnitures:dark_oak_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:jungle_modern_wardrobe",
+          "itemKey": "mcwfurnitures:jungle_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:mangrove_modern_wardrobe",
+          "itemKey": "mcwfurnitures:mangrove_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:oak_modern_wardrobe",
+          "itemKey": "mcwfurnitures:oak_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:spruce_modern_wardrobe",
+          "itemKey": "mcwfurnitures:spruce_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         },
         {
-          "itemKey": "mcw:warped_modern_wardrobe",
+          "itemKey": "mcwfurnitures:warped_modern_wardrobe",
           "amount": 1,
           "priceModifier": 0
         }
