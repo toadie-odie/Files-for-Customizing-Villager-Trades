@@ -1,6 +1,6 @@
 {
   "profession": "fastfooddelight:fast_food_waiter",
-  "removeOtherTrades": false,
+  "removeOtherTrades": true,
   "trades": [
     {
       "offer": {
