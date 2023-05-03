@@ -32,7 +32,7 @@ A wiki has been created to provide instructions if needed.
 
 <i>Feel free to let me know if there is anything you need.</i>
 
-Side Note: The Red Merchant from Supplementaries is not included in these files. Not sure why exactly, but the json file for the Custom Villager Trades mod doesn't work. Not sure if it's due to the order in which mods load or the way this merchant is registered in its mod. If I figure it out and get it working, it will be added.
+Side Note: The Red Merchant from Supplementaries is not included in the files for the Custom Villager Trades mod. Not sure why exactly, but the json file for the Custom Villager Trades mod doesn't work. When using the mod's export command, it doesn't export files for this villager and doesn't export files for the Wandering Trader as well. The mod does provide customization for the trades of the Wandering Villager, but not for the Red Merchant. If I figure it out and get it working, it will be added.
 
 <hr />
 
