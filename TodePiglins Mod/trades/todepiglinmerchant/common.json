@@ -1,0 +1,241 @@
+{
+  "replace": false,
+  "trades": [
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:blackstone"
+      },
+      "payment_item": {
+        "count": 14,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:gravel"
+      },
+      "payment_item": {
+        "count": 2,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:spectral_arrow"
+      },
+      "payment_item": {
+        "count": 22,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 64,
+      "offer_item": {
+        "count": 2,
+        "item": "todecoins:gold_coin"
+      },
+      "payment_item": {
+        "count": 2,
+        "item": "minecraft:netherrack"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 64,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:nether_brick"
+      },
+      "payment_item": {
+        "count": 2,
+        "item": "todecoins:gold_coin"
+      }
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 64,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:red_nether_bricks"
+      },
+      "payment_item": {
+        "count": 8,
+        "item": "todecoins:gold_coin"
+      }
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:soul_sand"
+      },
+      "payment_item": {
+        "count": 14,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:leather"
+      },
+      "payment_item": {
+        "count": 10,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:fire_charge"
+      },
+      "payment_item": {
+        "count": 10,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:crying_obsidian"
+      },
+      "payment_item": {
+        "count": 18,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:obsidian"
+      },
+      "payment_item": {
+        "count": 14,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:brown_mushroom"
+      },
+      "payment_item": {
+        "count": 14,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:red_mushroom"
+      },
+      "payment_item": {
+        "count": 14,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:crimson_fungus"
+      },
+      "payment_item": {
+        "count": 14,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:warped_fungus"
+      },
+      "payment_item": {
+        "count": 14,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 2,
+        "item": "todecoins:gold_coin"
+      },
+      "payment_item": {
+        "count": 1,
+        "item": "minecraft:rotten_flesh"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:shroomlight"
+      },
+      "payment_item": {
+        "count": 54,
+        "item": "todecoins:gold_coin"
+      },
+      "price_multiplier": 0.0
+    }
+  ]
+}
