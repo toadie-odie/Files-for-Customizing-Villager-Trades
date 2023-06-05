@@ -3,7 +3,6 @@
   "removeOtherTrades": false,
   "trades": [
     {
-      "isRare": true,
       "offer": {
         "itemKey": "additional_lights:al_lamp_packed_ice",
         "amount": 1,
