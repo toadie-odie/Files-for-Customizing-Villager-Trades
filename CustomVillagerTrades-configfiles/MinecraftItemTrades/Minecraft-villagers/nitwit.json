@@ -1,0 +1,68 @@
+{
+  "profession": "minecraft:nitwit",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:player_head",
+          "amount": 1,
+          "priceModifier": 0,
+          "advancedNBTData": "{SkullOwner:{Name:\"ToadieOdie\"}}"
+        },
+        {
+          "itemKey": "minecraft:player_head",
+          "amount": 1,
+          "priceModifier": 0,
+          "advancedNBTData": "{SkullOwner:{Name:\"Minepika94\"}}"
+        },
+        {
+          "itemKey": "minecraft:player_head",
+          "amount": 1,
+          "priceModifier": 0,
+          "advancedNBTData": "{SkullOwner:{Name:\"MikieSteve\"}}"
+        },
+        {
+          "itemKey": "minecraft:player_head",
+          "amount": 15,
+          "priceModifier": 0,
+          "advancedNBTData": "{SkullOwner:{Name:\"EnderDragonRobot\"}}"
+        },
+        {
+          "itemKey": "minecraft:player_head",
+          "amount": 1,
+          "priceModifier": 0,
+          "advancedNBTData": "{SkullOwner:{Name:\"Technoblade\"}}"
+        },
+        {
+          "itemKey": "minecraft:player_head",
+          "amount": 1,
+          "priceModifier": 0,
+          "advancedNBTData": "{SkullOwner:{Name:\"MHF_Steve\"}}"
+        },
+        {
+          "itemKey": "minecraft:player_head",
+          "amount": 1,
+          "priceModifier": 0,
+          "advancedNBTData": "{SkullOwner:{Name:\"MHF_Alex\"}}"
+        },
+        {
+          "itemKey": "minecraft:player_head",
+          "amount": 1,
+          "priceModifier": 0,
+          "advancedNBTData": "{SkullOwner:{Name:\"MHF_Herobrine\"}}"
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:emerald_quarter_bank_note",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 1,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

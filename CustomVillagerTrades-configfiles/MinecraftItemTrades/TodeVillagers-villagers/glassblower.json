@@ -1,0 +1,193 @@
+{
+  "profession": "todevillagers:disc_jockey",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "todevillagers:crushed_glass",
+          "amount": 4
+        },
+        {
+          "itemKey": "minecraft:coal",
+          "amount": 15
+        }
+      ],
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:sand",
+          "amount": 8
+        },
+        {
+          "itemKey": "minecraft:red_sand",
+          "amount": 4
+        }
+      ],
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:glass",
+          "amount": 4
+        },
+        {
+          "itemKey": "minecraft:glass_pane",
+          "amount": 11
+        },
+        {
+          "itemKey": "minecraft:glass_bottle",
+          "amount": 9
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lantern",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todevillagers:marver",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todevillagers:glassblowing_pipe",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todevillagers:glassblower_shears",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todevillagers:reinforced_glass",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "todevillagers:glowing_glass",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "todevillagers:shifting_glass",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "todevillagers:redstone_infused_glass",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 4
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

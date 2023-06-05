@@ -1,0 +1,230 @@
+{
+  "profession": "fastfooddelight:fast_food_waiter",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "fastfooddelight:french_fries",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:carrot_fries",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:fried_onions",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:mixed_salad",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "fastfooddelight:cod_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:salmon_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:cheese_wrap",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:chicken_wrap",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:rabbit_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:pork_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:cheeseburger",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:chicken_cheese_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "fastfooddelight:chicken_nuggets",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "fastfooddelight:croque_monsieur",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "fastfooddelight:cola_soda",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:orange_soda",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:lemon_soda",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:creaming_soda",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:iced_tea",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "fastfooddelight:ice_cream",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:chocolate_ice_cream",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:sweet_berry_ice_cream",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "fastfooddelight:fruit_ice_cream",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "fastfooddelight:apple_sauce",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}
