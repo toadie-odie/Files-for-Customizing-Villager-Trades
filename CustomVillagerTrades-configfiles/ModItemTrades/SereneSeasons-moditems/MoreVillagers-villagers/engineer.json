@@ -1,0 +1,21 @@
+{
+  "profession": "morevillagers:engineer",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "sereneseasons:season_sensor",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin_bag",
+        "amount": 30
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

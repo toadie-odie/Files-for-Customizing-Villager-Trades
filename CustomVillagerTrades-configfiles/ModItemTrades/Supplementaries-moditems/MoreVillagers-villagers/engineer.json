@@ -1,0 +1,130 @@
+{
+  "profession": "morevillagers:engineer",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:sconce_lever",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:clock_block",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:hourglass",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:redstone_illuminator",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:turn_table",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:speaker_block",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:pulley_block",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:bellows",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:relayer",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:wind_vane",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:crystal_display",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:crank",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:spring_launcher",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:cog_block",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 36
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:gold_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:gold_trapdoor",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 36
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:netherite_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:netherite_trapdoor",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note_bag",
+        "amount": 6
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

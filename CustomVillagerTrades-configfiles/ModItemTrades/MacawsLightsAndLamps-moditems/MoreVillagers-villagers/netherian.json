@@ -1,0 +1,74 @@
+{
+  "profession": "morevillagers:netherian",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "mcwlights:soul_acacia_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_bamboo_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_birch_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_crimson_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_dark_oak_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_double_street_lamp",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_jungle_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_mangrove_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_oak_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_spruce_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:soul_warped_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

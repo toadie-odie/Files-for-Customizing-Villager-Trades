@@ -1,0 +1,147 @@
+{
+  "profession": "morevillagers:engineer",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "mcwlights:black_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:black_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:blue_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:blue_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:brown_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:brown_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:cyan_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:cyan_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:gray_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:gray_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:green_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:green_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:light_blue_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:light_blue_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:light_gray_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:light_gray_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:lime_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:lime_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:magenta_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:magenta_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:orange_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:orange_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:pink_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:pink_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:purple_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:purple_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:red_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:red_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:white_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:white_lamp",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:yellow_ceiling_light",
+          "amount": 1
+        },
+        {
+          "itemKey": "mcwlights:yellow_lamp",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

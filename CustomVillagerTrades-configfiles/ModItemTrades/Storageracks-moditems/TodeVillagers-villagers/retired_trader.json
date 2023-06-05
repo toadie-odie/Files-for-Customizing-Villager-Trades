@@ -1,0 +1,119 @@
+{
+  "profession": "todevillagers:retired_trader",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "storageracks:stone_controller",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 1,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "storageracks:acacia_stone_rack",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:birch_stone_rack",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:crimson_stone_rack",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:dark_oak_stone_rack",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:jungle_stone_rack",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:mangrove_stone_rack",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:oak_stone_rack",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:spruce_stone_rack",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:warped_stone_rack",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 5,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "storageracks:acacia_stone_corner",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:birch_stone_corner",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:crimson_stone_corner",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:dark_oak_stone_corner",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:jungle_stone_corner",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:mangrove_stone_corner",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:oak_stone_corner",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:spruce_stone_corner",
+          "amount": 1
+        },
+        {
+          "itemKey": "storageracks:warped_stone_corner",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 5,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 2
+    }
+  ]
+}

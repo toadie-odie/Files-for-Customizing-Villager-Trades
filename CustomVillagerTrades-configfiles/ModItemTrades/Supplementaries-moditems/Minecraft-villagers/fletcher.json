@@ -1,0 +1,27 @@
+{
+  "profession": "minecraft:fletcher",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:quiver",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:rope_arrow",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

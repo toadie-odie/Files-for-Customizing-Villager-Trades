@@ -1,0 +1,353 @@
+{
+  "profession": "fastfooddelight:fast_food_waiter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:milk_bottle",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:hot_cocoa",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:apple_cider",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:melon_juice",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:cooked_rice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:bacon_and_eggs",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:mixed_salad",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:nether_salad",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:bone_broth",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:beef_stew",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:chicken_soup",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:vegetable_soup",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:fish_stew",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:fried_rice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:pumpkin_soup",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:baked_cod_stew",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:noodle_soup",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:egg_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:bacon_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:chicken_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:mutton_wrap",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:bacon_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:hamburger",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:dumplings",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:barbecue_stick",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:stuffed_potato",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:cabbage_rolls",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:salmon_roll",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:cod_roll",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:kelp_roll_slice",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:pasta_with_meatballs",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:pasta_with_mutton_chop",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:mushroom_rice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:roasted_mutton_chops",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:vegetable_noodles",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:steak_and_potatoes",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:ratatouille",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:squid_ink_pasta",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:grilled_salmon",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:apple_pie_slice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:sweet_berry_cheesecake_slice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:chocolate_pie_slice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:sweet_berry_cookie",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:honey_cookie",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:melon_popsicle",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:fruit_salad",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:glow_berry_custard",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

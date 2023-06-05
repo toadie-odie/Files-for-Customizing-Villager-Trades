@@ -1,0 +1,194 @@
+{
+  "profession": "minecraft:shepherd",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:white_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:orange_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:magenta_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:light_blue_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:yellow_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:lime_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:pink_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:gray_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:light_gray_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:cyan_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:purple_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:blue_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:brown_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:green_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:red_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:black_cushion",
+          "amount": 1,
+		  "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+		"priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:white_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:orange_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:magenta_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:light_blue_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:yellow_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:lime_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:pink_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:gray_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:light_gray_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:cyan_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:purple_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:blue_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:brown_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:green_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:red_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:black_sheet",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    }
+  ]
+}

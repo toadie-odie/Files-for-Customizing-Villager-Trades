@@ -1,0 +1,23 @@
+{
+  "profession": "todecoins:leprechaun",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "supplementaries:safe",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

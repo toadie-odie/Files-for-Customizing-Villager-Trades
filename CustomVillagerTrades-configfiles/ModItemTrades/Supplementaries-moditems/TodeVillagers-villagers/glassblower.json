@@ -1,0 +1,21 @@
+{
+  "profession": "todevillagers:glassblower",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "supplementaries:jar",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 8
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 2
+    }
+  ]
+}

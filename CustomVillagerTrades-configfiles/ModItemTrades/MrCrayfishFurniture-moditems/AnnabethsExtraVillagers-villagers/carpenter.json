@@ -1,0 +1,2049 @@
+{
+  "profession": "annabethsextravillagers:carpenter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:acacia_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_kitchen_sink_light",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_kitchen_sink_dark",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_kitchen_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_kitchen_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_bedside_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:acacia_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_coffee_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:white_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:orange_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:magenta_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_blue_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:yellow_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:lime_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:pink_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:gray_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_gray_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:cyan_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:purple_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:blue_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:brown_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:green_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:red_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:black_sofa",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:acacia_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_park_bench",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:acacia_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_desk",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:acacia_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_desk_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:acacia_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_mail_box",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:flowering_azalea_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:azalea_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_hedge",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:white_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:orange_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:magenta_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_blue_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:yellow_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:lime_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:pink_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:gray_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_gray_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:cyan_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:purple_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:blue_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:brown_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:green_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:red_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:black_picket_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:white_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:orange_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:magenta_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_blue_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:yellow_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:lime_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:pink_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:gray_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_gray_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:cyan_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:purple_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:blue_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:brown_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:green_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:red_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:black_picket_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:acacia_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_upgraded_fence",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_acacia_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_birch_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_crimson_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_dark_oak_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_jungle_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_oak_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_spruce_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_warped_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:stripped_mangrove_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:acacia_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:birch_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:crimson_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:dark_oak_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:jungle_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:oak_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:spruce_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:warped_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:mangrove_upgraded_gate",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

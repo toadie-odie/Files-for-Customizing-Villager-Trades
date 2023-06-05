@@ -1,0 +1,39 @@
+{
+  "profession": "todevillagers:retired_trader",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:cabbage_seeds",
+          "amount": 1
+        },
+        {
+          "itemKey": "farmersdelight:tomato_seeds",
+          "amount": 1
+        },
+        {
+          "itemKey": "farmersdelight:rice",
+          "amount": 1
+        },
+        {
+          "itemKey": "farmersdelight:onion",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:flax_seeds",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

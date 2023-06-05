@@ -1,0 +1,73 @@
+{
+  "profession": "morevillagers:miner",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:sconce",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:candle_holder",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:copper_lantern",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:crimson_lantern",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:rope",
+          "amount": 4
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:bomb",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin_bag",
+        "amount": 15
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:bomb_blue",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_half_bank_note",
+        "amount": 1
+      },
+      "additionalRequest": {
+        "itemKey": "todecoins:gold_coin_bag",
+        "amount": 48
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

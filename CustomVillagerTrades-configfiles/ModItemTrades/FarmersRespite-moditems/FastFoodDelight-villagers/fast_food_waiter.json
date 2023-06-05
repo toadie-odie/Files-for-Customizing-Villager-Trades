@@ -1,0 +1,288 @@
+{
+  "profession": "fastfooddelight:fast_food_waiter",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:black_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:green_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:yellow_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:dandelion_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:rose_hip_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:melon_juice",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:coffee_cake_slice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:green_tea_cookie",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:nether_wart_sourdough",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:rose_hip_pie_slice",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:black_cod",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:blazing_chili",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:tea_curry",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:long_apple_cider",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:long_black_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:long_coffee",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:long_dandelion_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:long_apple_cider",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:long_green_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:long_rose_hip_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:long_yellow_tea",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:strong_apple_cider",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:strong_black_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:strong_coffee",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:strong_green_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:strong_hot_cocoa",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:strong_melon_juice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:strong_rose_hip_tea",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:gamblers_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:purulent_tea",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:strong_gamblers_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:strong_purulent_tea",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersrespite:long_purulent_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersrespite:long_gamblers_tea",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

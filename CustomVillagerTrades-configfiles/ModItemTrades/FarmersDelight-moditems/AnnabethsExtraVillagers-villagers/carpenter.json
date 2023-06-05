@@ -1,0 +1,69 @@
+{
+  "profession": "annabethsextravillagers:carpenter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:acacia_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:birch_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:crimson_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:dark_oak_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:jungle_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:oak_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:spruce_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:warped_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:basket",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "farmersdelight:cutting_board",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}
