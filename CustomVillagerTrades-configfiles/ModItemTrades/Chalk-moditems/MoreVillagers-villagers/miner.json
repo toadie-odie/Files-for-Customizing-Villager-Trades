@@ -1,0 +1,83 @@
+{
+    "profession": "morevillagers:miner",
+    "removeOtherTrades": false,
+    "trades": [
+        {
+            "multiOffer": [
+                {
+                    "itemKey": "chalk:black_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:blue_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:brown_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:cyan_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:gray_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:green_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:light_blue_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:light_gray_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:lime_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:magenta_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:orange_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:pink_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:purple_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:red_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:white_chalk",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "chalk:yellow_chalk",
+                    "amount": 1
+                }
+            ],
+            "request": {
+                "itemKey": "todecoins:copper_coin",
+                "amount": 20
+            },
+            "tradeExp": 1,
+            "maxUses": 16,
+            "priceMultiplier": 0.05,
+            "demand": 0,
+            "tradeLevel": 1
+        }
+    ]
+}

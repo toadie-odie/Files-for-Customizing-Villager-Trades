@@ -1,0 +1,23 @@
+{
+  "profession": "todevillagers:retired_trader",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "isRare": true,
+      "offer": {
+        "itemKey": "additional_lights:al_lamp_packed_ice",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 8
+      },
+      "tradeExp": 1,
+      "maxUses": 6,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3
+    }
+  ]
+}

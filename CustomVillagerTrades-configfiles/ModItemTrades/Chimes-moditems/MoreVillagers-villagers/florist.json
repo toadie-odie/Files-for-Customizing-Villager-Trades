@@ -1,0 +1,35 @@
+{
+  "profession": "morevillagers:florist",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "chimes:amethyst_chimes",
+          "amount": 1
+        },
+        {
+          "itemKey": "chimes:bamboo_chimes",
+          "amount": 1
+        },
+        {
+          "itemKey": "chimes:copper_chimes",
+          "amount": 1
+        },
+        {
+          "itemKey": "chimes:iron_chimes",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 9
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    }
+  ]
+}

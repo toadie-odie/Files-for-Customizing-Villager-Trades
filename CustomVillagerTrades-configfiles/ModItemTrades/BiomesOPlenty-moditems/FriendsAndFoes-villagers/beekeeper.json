@@ -1,0 +1,71 @@
+{
+  "profession": "friendsandfoes:beekeeper",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "biomesoplenty:rose",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:violet",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:wildflower",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:orange_cosmos",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:pink_daffodil",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:pink_hibiscus",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:glowflower",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:wilted_lily",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:burning_blossom",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:tall_lavender",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:blue_hydrangea",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:goldenrod",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:icy_iris",
+          "amount": 12
+        }
+      ],
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

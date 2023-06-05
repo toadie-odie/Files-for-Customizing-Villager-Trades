@@ -1,0 +1,153 @@
+{
+    "profession": "morevillagers:florist",
+    "removeOtherTrades": false,
+    "trades": [
+        {
+            "multiOffer": [
+                {
+                    "itemKey": "biomesoplenty:rose",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:violet",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:wildflower",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:orange_cosmos",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:pink_daffodil",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:pink_hibiscus",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:glowflower",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:wilted_lily",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:burning_blossom",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:tall_lavender",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:blue_hydrangea",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:goldenrod",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:icy_iris",
+                    "amount": 1
+                }
+            ],
+            "request": {
+                "itemKey": "todecoins:copper_coin_bag",
+                "amount": 18
+            },
+            "tradeExp": 2,
+            "maxUses": 16,
+            "priceMultiplier": 0.05,
+            "demand": 0,
+            "tradeLevel": 1
+        },
+        {
+            "multiOffer": [
+                {
+                    "itemKey": "biomesoplenty:cattail",
+                    "amount": 2
+                },
+                {
+                    "itemKey": "biomesoplenty:clover",
+                    "amount": 2
+                },
+                {
+                    "itemKey": "biomesoplenty:toadstool",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:glowshroom",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "minecraft:brown_mushroom",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "minecraft:red_mushroom",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "biomesoplenty:flowering_oak_leaves",
+                    "amount": 2
+                },
+                {
+                    "itemKey": "biomesoplenty:white_cherry_leaves",
+                    "amount": 2
+                },
+                {
+                    "itemKey": "biomesoplenty:pink_cherry_leaves",
+                    "amount": 2
+                },
+                {
+                    "itemKey": "biomesoplenty:jacaranda_leaves",
+                    "amount": 2
+                }
+            ],
+            "request": {
+                "itemKey": "todecoins:copper_coin_bag",
+                "amount": 18
+            },
+            "tradeExp": 5,
+            "maxUses": 16,
+            "priceMultiplier": 0.05,
+            "demand": 0,
+            "tradeLevel": 2
+        },
+        {
+            "offer": {
+                "itemKey": "todecoins:copper_coin_bag",
+                "amount": 18
+            },
+            "multiRequest": [
+                {
+                    "itemKey": "biomesoplenty:flowering_oak_sapling",
+                    "amount": 6
+                },
+                {
+                    "itemKey": "biomesoplenty:white_cherry_sapling",
+                    "amount": 6
+                },
+                {
+                    "itemKey": "biomesoplenty:pink_cherry_sapling",
+                    "amount": 6
+                },
+                {
+                    "itemKey": "biomesoplenty:jacaranda_sapling",
+                    "amount": 6
+                }
+            ],
+            "tradeExp": 30,
+            "maxUses": 16,
+            "priceMultiplier": 0.05,
+            "demand": 0,
+            "tradeLevel": 4
+        }
+    ]
+}

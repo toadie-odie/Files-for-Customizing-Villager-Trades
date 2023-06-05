@@ -1,0 +1,59 @@
+{
+  "profession": "morevillagers:woodworker",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "applecrates:acacia_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "applecrates:birch_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "applecrates:crimson_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "applecrates:dark_oak_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "applecrates:jungle_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "applecrates:oak_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "applecrates:spruce_crate",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "applecrates:warped_crate",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

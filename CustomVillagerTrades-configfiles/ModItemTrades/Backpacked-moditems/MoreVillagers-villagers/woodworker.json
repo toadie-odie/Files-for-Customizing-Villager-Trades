@@ -1,0 +1,59 @@
+{
+  "profession": "morevillagers:woodworker",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "backpacked:acacia_backpack_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "backpacked:birch_backpack_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "backpacked:crimson_backpack_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "backpacked:dark_oak_backpack_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "backpacked:jungle_backpack_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "backpacked:oak_backpack_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "backpacked:spruce_backpack_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "backpacked:warped_backpack_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

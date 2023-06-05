@@ -1,0 +1,162 @@
+{
+  "profession": "wanderer",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "isRare": false,
+      "multiOffer": [
+        {
+          "itemKey": "biomesoplenty:rose",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:violet",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:wildflower",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:orange_cosmos",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:pink_daffodil",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:pink_hibiscus",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:glowflower",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:wilted_lily",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:burning_blossom",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:tall_lavender",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:blue_hydrangea",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:goldenrod",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:icy_iris",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "isRare": false,
+      "multiOffer": [
+        {
+          "itemKey": "biomesoplenty:origin_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:flowering_oak_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:rainbow_birch_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:yellow_autumn_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:orange_autumn_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:maple_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:fir_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:white_cherry_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:pink_cherry_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:palm_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:willow_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:dead_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:magic_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_sapling",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 64
+      },
+      "additionalRequest": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 26
+      },
+      "tradeExp": 1,
+      "maxUses": 5,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

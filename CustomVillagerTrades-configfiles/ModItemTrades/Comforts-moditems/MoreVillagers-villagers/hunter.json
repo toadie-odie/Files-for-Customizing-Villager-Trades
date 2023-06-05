@@ -1,0 +1,223 @@
+{
+  "profession": "morevillagers:hunter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "comforts:sleeping_bag_white",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_orange",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_magenta",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_light_blue",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_yellow",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_lime",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_pink",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_gray",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_light_gray",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_cyan",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_purple",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_blue",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_brown",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_green",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_red",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:sleeping_bag_black",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:acacia_camp_chair",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:birch_camp_chair",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:crimson_camp_chair",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:dark_oak_camp_chair",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:jungle_camp_chair",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:mangrove_camp_chair",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:oak_camp_chair",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:spruce_camp_chair",
+          "amount": 1
+        },
+        {
+          "itemKey": "campchair:warped_camp_chair",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 64
+      },
+      "additionalRequest": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 44
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "comforts:rope_and_nail",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 64
+      },
+      "additionalRequest": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 44
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "comforts:hammock_white",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_orange",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_magenta",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_light_blue",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_yellow",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_lime",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_pink",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_gray",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_light_gray",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_cyan",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_purple",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_blue",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_brown",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_green",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_red",
+          "amount": 1
+        },
+        {
+          "itemKey": "comforts:hammock_black",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 64
+      },
+      "additionalRequest": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 44
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    }
+  ]
+}

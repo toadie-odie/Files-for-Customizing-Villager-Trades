@@ -1,0 +1,88 @@
+{
+    "profession": "morevillagers:florist",
+    "removeOtherTrades": false,
+    "trades": [
+        {
+            "offer": {
+                "itemKey": "todecoins:copper_coin_bag",
+                "amount": 18
+            },
+            "request": {
+                "itemKey": "delightful:green_tea_leaf",
+                "amount": 3
+            },
+            "tradeExp": 10,
+            "maxUses": 16,
+            "priceMultiplier": 0.05,
+            "demand": 0,
+            "tradeLevel": 2
+        },
+        {
+            "offer": {
+                "itemKey": "delightful:salmonberries",
+                "amount": 2
+            },
+            "request": {
+                "itemKey": "todecoins:copper_coin_bag",
+                "amount": 18
+            },
+            "tradeExp": 5,
+            "maxUses": 16,
+            "priceMultiplier": 0.05,
+            "demand": 0,
+            "tradeLevel": 2
+        },
+        {
+            "offer": {
+                "itemKey": "todecoins:copper_coin_bag",
+                "amount": 18
+            },
+            "request": {
+                "itemKey": "delightful:acorn",
+                "amount": 3
+            },
+            "tradeExp": 20,
+            "maxUses": 16,
+            "priceMultiplier": 0.05,
+            "demand": 0,
+            "tradeLevel": 3
+        },
+        {
+            "multiOffer": [
+                {
+                    "itemKey": "delightful:matcha_latte",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "delightful:berry_matcha_latte",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "delightful:jelly_bottle",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "delightful:glow_jelly_bottle",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "delightful:lavender_tea",
+                    "amount": 1
+                },
+                {
+                    "itemKey": "delightful:nut_butter_bottle",
+                    "amount": 1
+                }
+            ],
+            "request": {
+                "itemKey": "todecoins:gold_coin_bag",
+                "amount": 36
+            },
+            "tradeExp": 10,
+            "maxUses": 16,
+            "priceMultiplier": 0.05,
+            "demand": 0,
+            "tradeLevel": 3
+        }
+    ]
+}

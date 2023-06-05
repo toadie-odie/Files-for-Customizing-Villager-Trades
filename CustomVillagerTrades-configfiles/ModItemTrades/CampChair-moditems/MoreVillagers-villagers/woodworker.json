@@ -1,0 +1,64 @@
+{
+  "profession": "morevillagers:woodworker",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "campchair:acacia_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "campchair:birch_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "campchair:crimson_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "campchair:dark_oak_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "campchair:jungle_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "campchair:mangrove_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "campchair:oak_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "campchair:spruce_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "campchair:warped_camp_chair",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}
