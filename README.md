@@ -26,6 +26,8 @@ The purpose of this repository is to share some default customized villager trad
 
 <i>You'll need to remove the trades from these files for the mods you're not using.</i>
 
+Additional Note: I didn't have every item for every mod in here since many of them require other mods that I'm not using. And some items may have been added that require mods that are not listed in here. So don't just blindly add things to your pack's config files. This is here mostly to make it a little easier to put these files together without needing to write them up completely from scratch every time a new modpack is made.
+
 <hr />
 
 A wiki has been created to provide instructions if needed.
