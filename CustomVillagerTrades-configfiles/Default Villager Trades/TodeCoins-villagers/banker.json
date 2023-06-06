@@ -1,0 +1,176 @@
+{
+  "profession": "todecoins:banker",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:iron_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:iron_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:iron_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:iron_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 64,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 64,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:netherite_coin",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 8,
+      "maxUses": 16,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "profession": "minecraft:mason",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "delightful:basalt_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:quartz_cabinet",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    }
+  ]
+}

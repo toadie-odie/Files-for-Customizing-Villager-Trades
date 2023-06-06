@@ -1,0 +1,135 @@
+{
+  "profession": "minecraft:mason",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "supplementaries:ashen_basalt",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:ash_brick",
+        "amount": 10,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:pedestal",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:checker_block",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:lapis_bricks",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:ash_bricks",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:stone_tile",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:blackstone_tile",
+          "amount": 4,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 10,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:stone_lamp",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:blackstone_lamp",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:deepslate_lamp",
+          "amount": 4,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:end_stone_lamp",
+          "amount": 4,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:statue",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 64,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

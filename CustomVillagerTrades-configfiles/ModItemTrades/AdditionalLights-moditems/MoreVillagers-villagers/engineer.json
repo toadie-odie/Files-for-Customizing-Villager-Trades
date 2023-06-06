@@ -1,0 +1,129 @@
+{
+  "profession": "morevillagers:enderian",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "additional_lights:al_lamp_acacia_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_birch_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_dark_oak_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_jungle_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_oak_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_spruce_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_end_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_end_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_glass",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_blackstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_mossy_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_red_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_diamond_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_gold_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_packed_ice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_magenta_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_pink_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_lamp_iron_block",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    }
+  ]
+}

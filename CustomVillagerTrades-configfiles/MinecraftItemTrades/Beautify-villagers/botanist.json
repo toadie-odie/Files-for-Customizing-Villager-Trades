@@ -1,0 +1,393 @@
+{
+  "profession": "beautify:botanist",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "beautify:hanging_pot",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:flower_pot",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 36,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:vine",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "beautify:oak_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:spruce_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:birch_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:jungle_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:acacia_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:dark_oak_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:mangrove_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:crimson_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:warped_trellis",
+          "amount": 2,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 36,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:big_dripleaf",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:small_dripleaf",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lily_pad",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:spore_blossom",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "beautify:iron_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:acacia_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:birch_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:crimson_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:dark_oak_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:jungle_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:mangrove_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:oak_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:spruce_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:warped_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "beautify:quartz_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:acacia_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:birch_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:crimson_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:dark_oak_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:jungle_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:mangrove_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:oak_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:spruce_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:warped_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:moss_block",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 36,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:flowering_azalea",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "beautify:lamp_candleabra",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 15,
+      "maxUses": 6,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:rooted_dirt",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 32,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:hanging_roots",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

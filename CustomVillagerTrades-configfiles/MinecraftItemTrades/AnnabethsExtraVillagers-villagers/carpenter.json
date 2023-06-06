@@ -1,0 +1,415 @@
+{
+  "profession": "annabethsextravillagers:carpenter",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:oak_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:spruce_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:birch_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:jungle_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:acacia_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:dark_oak_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:mangrove_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:warped_stem",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:crimson_stem",
+          "amount": 6
+        }
+      ],
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:oak_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:spruce_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:birch_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:jungle_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:acacia_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:dark_oak_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:mangrove_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:warped_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "minecraft:crimson_planks",
+          "amount": 12
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:oak_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:spruce_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:birch_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:jungle_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:acacia_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:dark_oak_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:mangrove_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:warped_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:crimson_slab",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:oak_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:spruce_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:birch_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:jungle_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:acacia_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:dark_oak_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:mangrove_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:warped_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:crimson_stairs",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:oak_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:spruce_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:birch_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:jungle_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:acacia_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:dark_oak_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:mangrove_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:warped_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:crimson_fence",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:oak_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:spruce_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:birch_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:jungle_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:acacia_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:dark_oak_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:mangrove_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:warped_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:crimson_fence_gate",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:oak_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:spruce_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:birch_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:jungle_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:acacia_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:dark_oak_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:mangrove_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:warped_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:crimson_door",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:oak_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:spruce_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:birch_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:jungle_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:acacia_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:dark_oak_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:mangrove_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:warped_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:crimson_trapdoor",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:chest",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 3,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

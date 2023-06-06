@@ -1,0 +1,160 @@
+{
+  "profession": "morevillagers:hunter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:white_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:orange_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:magenta_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_blue_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:yellow_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:lime_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:pink_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:gray_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_gray_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:cyan_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:purple_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:blue_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:brown_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:green_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:red_cooler",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:black_cooler",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:white_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:orange_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:magenta_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_blue_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:yellow_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:lime_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:pink_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:gray_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_gray_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:cyan_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:purple_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:blue_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:brown_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:green_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:red_grill",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:black_grill",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

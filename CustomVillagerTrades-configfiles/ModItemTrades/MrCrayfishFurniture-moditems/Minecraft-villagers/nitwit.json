@@ -1,0 +1,87 @@
+{
+  "profession": "minecraft:nitwit",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:diving_board",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:white_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:orange_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:magenta_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_blue_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:yellow_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:lime_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:pink_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:gray_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_gray_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:cyan_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:purple_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:blue_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:brown_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:green_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:red_trampoline",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:black_trampoline",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "profession": "morevillagers:netherian",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:emerald_bank_note",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "obsidianboat:obsidianboat",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

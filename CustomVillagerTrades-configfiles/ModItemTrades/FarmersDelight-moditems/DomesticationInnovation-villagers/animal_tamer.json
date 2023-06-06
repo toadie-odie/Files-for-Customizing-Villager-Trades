@@ -1,0 +1,29 @@
+{
+  "profession": "domesticationinnovation:animal_tamer",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "farmersdelight:dog_food",
+          "amount": 1,
+          "priceModifier": 0
+        },{
+          "itemKey": "farmersdelight:horse_feed",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 6,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

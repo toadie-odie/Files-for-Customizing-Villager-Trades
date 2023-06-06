@@ -1,0 +1,122 @@
+{
+  "profession": "annabethsextravillagers:carpenter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "beautify:acacia_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:birch_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:crimson_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:dark_oak_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:jungle_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:mangrove_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:oak_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:spruce_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:warped_blinds",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "beautify:acacia_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:birch_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:crimson_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:dark_oak_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:jungle_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:mangrove_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:oak_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:spruce_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "beautify:warped_picture_frame",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    }
+  ]
+}

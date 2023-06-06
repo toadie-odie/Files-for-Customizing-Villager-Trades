@@ -1,0 +1,215 @@
+{
+  "profession": "fastfooddelight:fast_food_waiter",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "delightful:rock_candy",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:crab_rangoon",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:cooked_marshmallow_stick",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:honey_glazed_walnut",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "delightful:field_salad",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "delightful:cheeseburger",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:nut_butter_and_jelly_sandwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:chunkwich",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:deluxe_cheeseburger",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "delightful:chunk_nugget",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "delightful:smore",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "delightful:prickly_pear_juice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:nut_milk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:matcha_latte",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:berry_matcha_latte",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:azalea_tea",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:lavender_tea",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "delightful:matcha_ice_cream",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:salmonberry_ice_cream",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "delightful:salmonberry_pie_slice",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "delightful:ender_nectar",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:gold_coin",
+        "amount": 2,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 10,
+      "priceMultiplier": 0.0,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

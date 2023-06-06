@@ -1,0 +1,37 @@
+{
+  "profession": "annabethsextravillagers:musician",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "biomesoplenty:music_disc_wanderer",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 21
+      },
+      "request": {
+        "itemKey": "biomesoplenty:music_disc_wanderer",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

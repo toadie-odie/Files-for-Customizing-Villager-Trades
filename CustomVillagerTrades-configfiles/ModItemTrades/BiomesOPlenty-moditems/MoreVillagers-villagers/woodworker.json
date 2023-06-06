@@ -1,0 +1,519 @@
+{
+  "profession": "morevillagers:woodworker",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "biomesoplenty:cherry_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:fir_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:palm_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:willow_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:dead_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:magic_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_sapling",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_sapling",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "biomesoplenty:cherry_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:fir_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:palm_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:willow_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:dead_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:magic_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_log",
+          "amount": 6
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_log",
+          "amount": 6
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "biomesoplenty:cherry_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:fir_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:palm_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:willow_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:dead_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:magic_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_planks",
+          "amount": 12
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_planks",
+          "amount": 12
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "biomesoplenty:cherry_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:fir_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:palm_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:willow_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:dead_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:magic_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_slab",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_slab",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "biomesoplenty:cherry_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:fir_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:palm_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:willow_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:dead_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:magic_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_stairs",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_stairs",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "biomesoplenty:cherry_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:fir_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:palm_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:willow_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:dead_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:magic_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_fence",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_fence",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "biomesoplenty:cherry_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:fir_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:palm_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:willow_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:dead_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:magic_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_fence_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_fence_gate",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "biomesoplenty:cherry_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:fir_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:palm_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:willow_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:dead_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:magic_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_door",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_door",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "biomesoplenty:cherry_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:fir_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:redwood_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:mahogany_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:jacaranda_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:palm_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:willow_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:dead_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:magic_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:umbran_trapdoor",
+          "amount": 1
+        },
+        {
+          "itemKey": "biomesoplenty:hellbark_trapdoor",
+          "amount": 1
+        }
+      ],
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

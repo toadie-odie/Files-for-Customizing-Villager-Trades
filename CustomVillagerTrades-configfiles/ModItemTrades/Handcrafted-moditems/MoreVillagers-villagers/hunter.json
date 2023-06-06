@@ -1,0 +1,84 @@
+{
+  "profession": "morevillagers:hunter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:bear_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:blaze_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:creeper_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:evoker_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:fox_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:goat_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:phantom_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:pillager_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:silverfish_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:skeleton_horse_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:skeleton_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:spider_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:vindicator_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:witch_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:wither_skeleton_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:wolf_trophy",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

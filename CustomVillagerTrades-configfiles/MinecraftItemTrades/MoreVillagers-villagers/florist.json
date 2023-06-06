@@ -1,0 +1,182 @@
+{
+  "profession": "morevillagers:florist",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:flower_pot",
+          "amount": 3
+        },
+        {
+          "itemKey": "minecraft:bone_meal",
+          "amount": 3
+        }
+      ],
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:dandelion",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:poppy",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:blue_orchid",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:allium",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:azure_bluet",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:red_tulip",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:orange_tulip",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:white_tulip",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:pink_tulip",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:oxeye_daisy",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:cornflower",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:lily_of_the_valley",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:sunflower",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:lilac",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:rose_bush",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:peony",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:large_fern",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:fern",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:glow_berries",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:sweet_berries",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:vine",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:glow_lichen",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:spore_blossom",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:hanging_roots",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:lily_pad",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:small_dripleaf",
+          "amount": 2
+        },
+        {
+          "itemKey": "minecraft:flowering_azalea_leaves",
+          "amount": 2
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": [
+        {
+          "itemKey": "minecraft:flowering_azalea",
+          "amount": 6
+        },
+        {
+          "itemKey": "minecraft:azalea",
+          "amount": 6
+        }
+      ],
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

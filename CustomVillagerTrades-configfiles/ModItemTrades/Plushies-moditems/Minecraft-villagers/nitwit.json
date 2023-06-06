@@ -1,0 +1,124 @@
+{
+  "profession": "minecraft:nitwit",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "plushies:axolotl",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:bee",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:cat",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:cow",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:dolphin",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:dragon",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:enderman",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:frog",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:goat",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:llama",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:magma_cube",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:mooshroom",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:panda",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:parrot",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:red_fox",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:sheep",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:slime",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:snow_golem",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:turtle",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:warden",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "plushies:white_fox",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    }
+  ]
+}

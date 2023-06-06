@@ -1,0 +1,763 @@
+{
+  "profession": "annabethsextravillagers:carpenter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "handcrafted:wood_crockery_combo",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_dining_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:acacia_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_couch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:acacia_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_chair",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:acacia_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_bench",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_bench",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_side_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:acacia_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_table",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_table",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_nightstand",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_cupboard",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:acacia_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:acacia_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_counter",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_counter",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_drawer",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_desk",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_desk",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

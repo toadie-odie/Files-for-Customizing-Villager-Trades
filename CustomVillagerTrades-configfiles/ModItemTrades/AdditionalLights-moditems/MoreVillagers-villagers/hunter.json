@@ -1,0 +1,605 @@
+{
+  "profession": "morevillagers:hunter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "additional_lights:al_torch_acacia_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_birch_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_dark_oak_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_jungle_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_oak_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_spruce_planks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_packed_ice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_blackstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_mossy_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_diamond_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_gold_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_end_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_end_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_glass",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_iron_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_magenta_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_pink_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_red_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_smooth_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:al_torch_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "additional_lights:fire_pit_l_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_cut_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_diamond_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_end_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_end_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_gold_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_iron_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_magenta_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_mossy_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_mossy_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_packed_ice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_pink_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_polished_andesite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_polished_blackstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_polished_diorite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_polished_granite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_red_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_smooth_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_l_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_cut_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_diamond_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_end_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_end_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_gold_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_iron_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_magenta_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_mossy_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_mossy_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_packed_ice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_pink_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_polished_andesite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_polished_blackstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_polished_diorite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_polished_granite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_red_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_smooth_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:fire_pit_s_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "additional_lights:standing_torch_l_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_cut_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_diamond_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_end_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_end_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_gold_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_iron_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_magenta_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_mossy_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_mossy_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_packed_ice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_pink_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_polished_andesite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_polished_blackstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_polished_diorite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_polished_granite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_red_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_smooth_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_l_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_cut_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_diamond_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_end_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_end_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_gold_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_iron_block",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_magenta_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_mossy_cobblestone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_mossy_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_packed_ice",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_pink_wool",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_polished_andesite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_polished_blackstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_polished_diorite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_polished_granite",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_red_nether_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_sandstone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_smooth_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_stone",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "additional_lights:standing_torch_s_stone_bricks",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

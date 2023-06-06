@@ -1,0 +1,55 @@
+{
+  "profession": "minecraft:mason",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:bricks_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:calcite_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:deepslate_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:diorite_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dripstone_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:granite_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:stone_corner_trim",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

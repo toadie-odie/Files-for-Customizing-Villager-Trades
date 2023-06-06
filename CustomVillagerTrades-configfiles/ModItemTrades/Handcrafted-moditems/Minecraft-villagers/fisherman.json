@@ -1,0 +1,32 @@
+{
+  "profession": "minecraft:fisherman",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:pufferfish_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:salmon_trophy",
+          "amount": 1
+        },
+        {
+          "itemKey": "handcrafted:tropical_fish_trophy",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

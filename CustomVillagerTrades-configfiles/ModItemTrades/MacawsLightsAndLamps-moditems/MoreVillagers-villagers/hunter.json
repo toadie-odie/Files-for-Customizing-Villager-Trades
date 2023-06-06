@@ -1,0 +1,64 @@
+{
+  "profession": "morevillagers:hunter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "mcwlights:acacia_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:bamboo_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:birch_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:crimson_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:dark_oak_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:jungle_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:mangrove_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:oak_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "mcwlights:spruce_tiki_torch",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

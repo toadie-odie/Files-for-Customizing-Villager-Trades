@@ -1,0 +1,87 @@
+{
+  "profession": "minecraft:mason",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "xercamod:black_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:blue_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:brown_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:cyan_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:gray_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:green_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:light_blue_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:light_gray_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:lime_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:magenta_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:orange_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:pink_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:purple_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:red_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:white_terratile",
+          "amount": 1
+        },
+        {
+          "itemKey": "xercamod:yellow_terratile",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

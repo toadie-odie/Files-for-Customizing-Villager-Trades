@@ -1,0 +1,205 @@
+{
+  "profession": "morevillagers:miner",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "minecraft:deepslate",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:calcite",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
+        {
+          "itemKey": "minecraft:raw_copper",
+          "amount": 18
+        },
+        {
+          "itemKey": "minecraft:raw_iron",
+          "amount": 8
+        }
+      ],
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "minecraft:raw_gold",
+        "amount": 6
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:amethyst_shard",
+        "amount": 4,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "minecraft:torch",
+        "amount": 60
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_ancient_city_explorer_maps"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_mineshaft_explorer_maps"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_stronghold_explorer_maps"
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:compass",
+        "amount": 1
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_pickaxe",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 12,
+        "amountRange": 22,
+        "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_ancient_city_explorer_maps"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_mineshaft_explorer_maps"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "amount": 1,
+          "priceModifier": 6,
+          "mapStructure": "#forge:on_stronghold_explorer_maps"
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 9,
+        "priceModifier": 0
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:compass",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

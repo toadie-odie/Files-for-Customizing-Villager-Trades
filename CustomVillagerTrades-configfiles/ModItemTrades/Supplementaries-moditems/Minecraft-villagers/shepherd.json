@@ -1,0 +1,100 @@
+{
+  "profession": "minecraft:shepherd",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:white_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:orange_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:magenta_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:light_blue_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:yellow_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:lime_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:pink_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:gray_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:light_gray_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:cyan_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:purple_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:blue_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:brown_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:green_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:red_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:black_flag",
+          "amount": 1,
+		  "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+		  "priceModifier": 0
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

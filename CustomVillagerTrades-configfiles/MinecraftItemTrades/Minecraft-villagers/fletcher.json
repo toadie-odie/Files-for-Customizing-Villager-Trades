@@ -1,0 +1,230 @@
+{
+  "profession": "minecraft:fletcher",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "minecraft:stick",
+        "amount": 32
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:arrow",
+        "amount": 16
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "tradeExp": 1,
+      "maxUses": 10,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:flint",
+        "amount": 10
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:gravel",
+        "amount": 10
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "minecraft:flint",
+        "amount": 26
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 36
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "minecraft:string",
+        "amount": 14
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:crossbow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "minecraft:feather",
+        "amount": 24
+      },
+      "tradeExp": 30,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 5,
+        "amountRange": 14
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "request": {
+        "itemKey": "minecraft:tripwire_hook",
+        "amount": 8
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:crossbow",
+        "amount": 2,
+        "priceModifier": 0,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": -1,
+            "maxEnchantmentLevel": 3
+          }
+        ],
+        "blacklistedEnchantments": [
+          "minecraft:vanishing_curse",
+          "minecraft:binding_curse"
+        ]
+      },
+      "request": {
+        "itemKey": "todecoins:pot_of_gold",
+        "amount": 6,
+        "amountRange": 15
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:tipped_arrow",
+        "amount": 5,
+        "effects": [
+          {
+            "effectKey": "random",
+            "duration": 300,
+            "level": 1,
+            "isVisible": true,
+            "potionKey": "random"
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:arrow",
+        "amount": 5
+      },
+      "additionalRequest": {
+        "itemKey": "todecoins:iron_coin_bag",
+        "amount": 16,
+        "amountRange": 40
+      },
+      "tradeExp": 30,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

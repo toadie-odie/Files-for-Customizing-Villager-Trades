@@ -1,0 +1,59 @@
+{
+  "profession": "morevillagers:florist",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "cfm:oak_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:spruce_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:birch_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:jungle_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:acacia_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:dark_oak_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:mangrove_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:azalea_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:flowering_azalea_hedge",
+          "amount": 4
+        },
+        {
+          "itemKey": "cfm:rock_path",
+          "amount": 4
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:gold_coin_bag",
+        "amount": 36
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    }
+  ]
+}

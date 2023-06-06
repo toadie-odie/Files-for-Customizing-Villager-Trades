@@ -1,0 +1,22 @@
+{
+  "profession": "wanderer",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "isRare": true,
+      "offer": {
+        "itemKey": "farmingforblockheads:market",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 64
+      },
+      "tradeExp": 30,
+      "maxUses": 3,
+      "priceMultiplier": 0.2,
+      "demand": 0,
+      "tradeLevel": 3
+    }
+  ]
+}

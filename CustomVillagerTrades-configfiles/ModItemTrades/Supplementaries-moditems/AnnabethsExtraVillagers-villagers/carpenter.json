@@ -1,0 +1,90 @@
+{
+  "profession": "annabethsextravillagers:carpenter",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:item_shelf",
+          "amount": 1
+        },
+        {
+          "itemKey": "supplementaries:notice_board",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:daub",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 1
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "supplementaries:daub_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:daub_brace",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:daub_cross_brace",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:timber_frame",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:timber_brace",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:timber_cross_brace",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "supplementaries:item_shelf",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}
