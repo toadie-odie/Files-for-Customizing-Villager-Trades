@@ -71,12 +71,7 @@
           "priceModifier": 0
         },
         {
-          "itemKey": "supplementaries:spruce_backpack_shelf",
-          "amount": 1,
-          "priceModifier": 0
-        },
-        {
-          "itemKey": "supplementaries:warped_backpack_shelf",
+          "itemKey": "supplementaries:item_shelf",
           "amount": 1,
           "priceModifier": 0
         }
