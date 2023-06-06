@@ -1,0 +1,142 @@
+{
+  "replace": false,
+  "trades": [
+    {
+      "type": "todepiglins:basic",
+      "experience": 4,
+      "max_trades": 24,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:ancient_debris"
+      },
+      "payment_item": {
+        "count": 44,
+        "item": "todecoins:pot_of_gold"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "enchantments": [
+        {
+          "id": "minecraft:soul_speed",
+          "level": 1
+        }
+      ],
+      "experience": 4,
+      "max_trades": 1,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:iron_boots",
+        "nbt": "{Damage:0}"
+      },
+      "payment_item": {
+        "count": 18,
+        "item": "todecoins:pot_of_gold"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "enchantments": [
+        {
+          "id": "minecraft:soul_speed",
+          "level": 2
+        }
+      ],
+      "experience": 4,
+      "max_trades": 1,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:iron_boots",
+        "nbt": "{Damage:0}"
+      },
+      "payment_item": {
+        "count": 24,
+        "item": "todecoins:pot_of_gold"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "enchantments": [
+        {
+          "id": "minecraft:soul_speed",
+          "level": 3
+        }
+      ],
+      "experience": 4,
+      "max_trades": 1,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:iron_boots",
+        "nbt": "{Damage:0}"
+      },
+      "payment_item": {
+        "count": 30,
+        "item": "todecoins:pot_of_gold"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "enchantments": [
+        {
+          "id": "minecraft:soul_speed",
+          "level": 1
+        }
+      ],
+      "experience": 4,
+      "max_trades": 1,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:book"
+      },
+      "payment_item": {
+        "count": 24,
+        "item": "todecoins:pot_of_gold"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "enchantments": [
+        {
+          "id": "minecraft:soul_speed",
+          "level": 2
+        }
+      ],
+      "experience": 4,
+      "max_trades": 1,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:book"
+      },
+      "payment_item": {
+        "count": 30,
+        "item": "todecoins:pot_of_gold"
+      },
+      "price_multiplier": 0.0
+    },
+    {
+      "type": "todepiglins:basic",
+      "enchantments": [
+        {
+          "id": "minecraft:soul_speed",
+          "level": 3
+        }
+      ],
+      "experience": 4,
+      "max_trades": 1,
+      "offer_item": {
+        "count": 1,
+        "item": "minecraft:book"
+      },
+      "payment_item": {
+        "count": 36,
+        "item": "todecoins:pot_of_gold"
+      },
+      "price_multiplier": 0.0
+    }
+  ]
+}
