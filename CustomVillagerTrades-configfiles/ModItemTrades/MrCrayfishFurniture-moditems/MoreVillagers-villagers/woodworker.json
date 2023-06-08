@@ -1294,19 +1294,6 @@
     },
     {
       "multiOffer": [
-      ],
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 54
-      },
-      "tradeExp": 10,
-      "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 3
-    },
-    {
-      "multiOffer": [
         {
           "itemKey": "cfm:acacia_desk",
           "amount": 1,

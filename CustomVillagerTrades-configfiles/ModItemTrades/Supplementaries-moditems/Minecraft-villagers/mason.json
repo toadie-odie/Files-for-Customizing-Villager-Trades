@@ -4,23 +4,6 @@
   "trades": [
     {
       "offer": {
-        "itemKey": "supplementaries:ashen_basalt",
-        "amount": 1,
-        "priceModifier": 0
-      },
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18,
-        "priceModifier": 0
-      },
-      "tradeExp": 1,
-      "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 1
-    },
-    {
-      "offer": {
         "itemKey": "supplementaries:ash_brick",
         "amount": 10,
         "priceModifier": 0

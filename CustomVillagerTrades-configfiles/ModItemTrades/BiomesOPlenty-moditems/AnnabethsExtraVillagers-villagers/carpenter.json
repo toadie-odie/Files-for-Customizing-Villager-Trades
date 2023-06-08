@@ -3,7 +3,11 @@
   "removeOtherTrades": false,
   "trades": [
     {
-      "multiOffer": [
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18
+      },
+      "multiRequest": [
         {
           "itemKey": "biomesoplenty:cherry_log",
           "amount": 6
@@ -49,10 +53,6 @@
           "amount": 6
         }
       ],
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 18
-      },
       "tradeExp": 1,
       "maxUses": 12,
       "priceMultiplier": 0.05,

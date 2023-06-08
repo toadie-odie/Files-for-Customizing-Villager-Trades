@@ -189,6 +189,65 @@
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "handcrafted:acacia_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:birch_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:crimson_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:dark_oak_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:jungle_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:mangrove_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:oak_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:spruce_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "handcrafted:warped_fancy_bed",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 54,
+        "priceModifier": 0
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
     }
   ]
 }

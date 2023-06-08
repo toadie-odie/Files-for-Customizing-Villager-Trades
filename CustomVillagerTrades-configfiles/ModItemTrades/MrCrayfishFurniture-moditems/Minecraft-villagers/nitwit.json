@@ -9,67 +9,83 @@
           "amount": 1
         },
         {
-          "itemKey": "cfm:white_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:0}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:orange_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:1}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:magenta_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:2}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:light_blue_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:3}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:yellow_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:4}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:lime_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:5}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:pink_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:7}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:gray_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:7}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:light_gray_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:8}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:cyan_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:9}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:purple_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:10}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:blue_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:11}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:brown_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:12}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:green_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:13}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:red_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:14}}",
           "amount": 1
         },
         {
-          "itemKey": "cfm:black_trampoline",
+          "itemKey": "cfm:trampoline",
+          "advancedNBTData": "{BlockEntityTag:{Color:15}}",
           "amount": 1
         }
       ],

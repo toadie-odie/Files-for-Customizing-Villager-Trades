@@ -147,7 +147,7 @@
       "maxUses": 12,
       "priceMultiplier": 0.0,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 4
     },
     {
       "multiOffer": [
@@ -164,11 +164,11 @@
         "itemKey": "todecoins:copper_coin_bag",
         "amount": 18
       },
-      "tradeExp": 10,
+      "tradeExp": 15,
       "maxUses": 12,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 4
     },
     {
       "offer": {

@@ -69,11 +69,6 @@
           "itemKey": "supplementaries:timber_cross_brace",
           "amount": 1,
           "priceModifier": 0
-        },
-        {
-          "itemKey": "supplementaries:item_shelf",
-          "amount": 1,
-          "priceModifier": 0
         }
       ],
       "request": {

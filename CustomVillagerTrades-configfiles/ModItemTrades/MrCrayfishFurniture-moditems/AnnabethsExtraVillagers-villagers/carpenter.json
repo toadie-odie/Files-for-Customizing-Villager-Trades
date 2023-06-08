@@ -1294,19 +1294,6 @@
     },
     {
       "multiOffer": [
-      ],
-      "request": {
-        "itemKey": "todecoins:copper_coin_bag",
-        "amount": 54
-      },
-      "tradeExp": 10,
-      "maxUses": 16,
-      "priceMultiplier": 0.05,
-      "demand": 0,
-      "tradeLevel": 3
-    },
-    {
-      "multiOffer": [
         {
           "itemKey": "cfm:acacia_desk",
           "amount": 1,
@@ -1761,70 +1748,6 @@
           "amount": 1
         },
         {
-          "itemKey": "cfm:white_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:orange_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:magenta_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:light_blue_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:yellow_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:lime_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:pink_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:gray_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:light_gray_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:cyan_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:purple_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:blue_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:brown_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:green_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:red_picket_gate",
-          "amount": 1
-        },
-        {
-          "itemKey": "cfm:black_picket_gate",
-          "amount": 1
-        },
-        {
           "itemKey": "cfm:acacia_upgraded_fence",
           "amount": 1,
           "priceModifier": 0
@@ -1923,6 +1846,70 @@
           "itemKey": "cfm:stripped_mangrove_upgraded_fence",
           "amount": 1,
           "priceModifier": 0
+        },
+        {
+          "itemKey": "cfm:white_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:orange_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:magenta_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_blue_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:yellow_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:lime_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:pink_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:gray_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:light_gray_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:cyan_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:purple_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:blue_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:brown_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:green_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:red_picket_gate",
+          "amount": 1
+        },
+        {
+          "itemKey": "cfm:black_picket_gate",
+          "amount": 1
         },
         {
           "itemKey": "cfm:stripped_acacia_upgraded_gate",

@@ -28,11 +28,6 @@
           "itemKey": "farmersrespite:rose_hip_tea",
           "amount": 1,
           "priceModifier": 0
-        },
-        {
-          "itemKey": "farmersrespite:melon_juice",
-          "amount": 1,
-          "priceModifier": 0
         }
       ],
       "request": {

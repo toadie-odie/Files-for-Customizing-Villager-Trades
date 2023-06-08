@@ -218,6 +218,11 @@
           ]
         }
       ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
       "tradeExp": 15,
       "maxUses": 12,
       "priceMultiplier": 0.05,
