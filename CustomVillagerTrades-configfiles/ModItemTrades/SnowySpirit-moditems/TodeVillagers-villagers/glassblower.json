@@ -1,0 +1,115 @@
+{
+  "profession": "todevillagers:glassblower",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "multiOffer": [
+        {
+          "itemKey": "snowyspirit:snow_globe",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_black",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_blue",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_brown",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_cyan",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_gray",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_green",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_light_blue",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_light_gray",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_lime",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_magenta",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_orange",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_pink",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_purple",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_rainbow",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_red",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_white",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_yellow",
+          "amount": 1,
+          "priceModifier": 0
+        },
+        {
+          "itemKey": "snowyspirit:lights_white",
+          "amount": 1,
+          "priceModifier": 0
+        }
+      ],
+      "request": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.02,
+      "demand": 0,
+      "tradeLevel": 1
+    }
+  ]
+}

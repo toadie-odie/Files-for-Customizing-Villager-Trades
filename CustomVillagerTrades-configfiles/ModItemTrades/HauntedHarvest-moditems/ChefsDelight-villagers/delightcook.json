@@ -1,0 +1,40 @@
+{
+  "profession": "chefsdelight:delightcook",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "request": {
+        "itemKey": "hauntedharvest:candy_corn",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "request": {
+        "itemKey": "hauntedharvest:popcorn",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    }
+  ]
+}

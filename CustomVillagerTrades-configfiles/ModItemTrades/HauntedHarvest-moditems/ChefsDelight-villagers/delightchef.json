@@ -1,0 +1,57 @@
+{
+  "profession": "chefsdelight:delightchef",
+  "removeOtherTrades": false,
+  "trades": [
+    {
+      "request": {
+        "itemKey": "hauntedharvest:corn_on_the_cob",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "request": {
+        "itemKey": "hauntedharvest:cornbread",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "request": {
+        "itemKey": "hauntedharvest:succotash",
+        "amount": 6,
+        "priceModifier": 0
+      },
+      "offer": {
+        "itemKey": "todecoins:copper_coin_bag",
+        "amount": 18,
+        "priceModifier": 0
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    }
+  ]
+}
